@@ -1,0 +1,2090 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>15/04/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id="Radiohead" label="Radiohead" />
+      <node id="Björk" label="Björk" />
+      <node id="Massive Attack" label="Massive Attack" />
+      <node id="Depeche Mode" label="Depeche Mode" />
+      <node id="Coldplay" label="Coldplay" />
+      <node id="Portishead" label="Portishead" />
+      <node id="Gorillaz" label="Gorillaz" />
+      <node id="Muse" label="Muse" />
+      <node id="Red Hot Chili Peppers" label="Red Hot Chili Peppers" />
+      <node id="Nelly Furtado" label="Nelly Furtado" />
+      <node id="Amy Winehouse" label="Amy Winehouse" />
+      <node id="Adele" label="Adele" />
+      <node id="Madonna" label="Madonna" />
+      <node id="Led Zeppelin" label="Led Zeppelin" />
+      <node id="The Cure" label="The Cure" />
+      <node id="Michael Jackson" label="Michael Jackson" />
+      <node id="Florence + the Machine" label="Florence + the Machine" />
+      <node id="Snow Patrol" label="Snow Patrol" />
+      <node id="Blur" label="Blur" />
+      <node id="Sigur Rós" label="Sigur Rós" />
+      <node id="Alanis Morissette" label="Alanis Morissette" />
+      <node id="Maroon 5" label="Maroon 5" />
+      <node id="Shakira" label="Shakira" />
+      <node id="Kylie Minogue" label="Kylie Minogue" />
+      <node id="Duran Duran" label="Duran Duran" />
+      <node id="Placebo" label="Placebo" />
+      <node id="Keane" label="Keane" />
+      <node id="Arctic Monkeys" label="Arctic Monkeys" />
+      <node id="Kings of Leon" label="Kings of Leon" />
+      <node id="The Killers" label="The Killers" />
+      <node id="Green Day" label="Green Day" />
+      <node id="Foo Fighters" label="Foo Fighters" />
+      <node id="Death Cab for Cutie" label="Death Cab for Cutie" />
+      <node id="Queens of the Stone Age" label="Queens of the Stone Age" />
+      <node id="David Bowie" label="David Bowie" />
+      <node id="The Beatles" label="The Beatles" />
+      <node id="MGMT" label="MGMT" />
+      <node id="Evanescence" label="Evanescence" />
+      <node id="Lily Allen" label="Lily Allen" />
+      <node id="Alicia Keys" label="Alicia Keys" />
+      <node id="Crystal Castles" label="Crystal Castles" />
+      <node id="Black Eyed Peas" label="Black Eyed Peas" />
+      <node id="Gwen Stefani" label="Gwen Stefani" />
+      <node id="Daft Punk" label="Daft Punk" />
+      <node id="Beyoncé" label="Beyoncé" />
+      <node id="Timbaland" label="Timbaland" />
+      <node id="Ciara" label="Ciara" />
+      <node id="Bob Dylan" label="Bob Dylan" />
+      <node id="Lady Gaga" label="Lady Gaga" />
+      <node id="Nine Inch Nails" label="Nine Inch Nails" />
+      <node id="New Order" label="New Order" />
+      <node id="Britney Spears" label="Britney Spears" />
+      <node id="The Strokes" label="The Strokes" />
+      <node id="Rihanna" label="Rihanna" />
+      <node id="Christina Aguilera" label="Christina Aguilera" />
+      <node id="30 Seconds to Mars" label="30 Seconds to Mars" />
+      <node id="Yeah Yeah Yeahs" label="Yeah Yeah Yeahs" />
+      <node id="Linkin Park" label="Linkin Park" />
+      <node id="Joy Division" label="Joy Division" />
+      <node id="Franz Ferdinand" label="Franz Ferdinand" />
+      <node id="U2" label="U2" />
+      <node id="Kelly Clarkson" label="Kelly Clarkson" />
+      <node id="Avril Lavigne" label="Avril Lavigne" />
+      <node id="Pink Floyd" label="Pink Floyd" />
+      <node id="t.A.T.u." label="t.A.T.u." />
+      <node id="Ashlee Simpson" label="Ashlee Simpson" />
+      <node id="Katy Perry" label="Katy Perry" />
+      <node id="Hilary Duff" label="Hilary Duff" />
+      <node id="Miley Cyrus" label="Miley Cyrus" />
+      <node id="3OH!3" label="3OH!3" />
+      <node id="David Guetta" label="David Guetta" />
+      <node id="Demi Lovato" label="Demi Lovato" />
+      <node id="Ke$ha" label="Ke$ha" />
+      <node id="Enrique Iglesias" label="Enrique Iglesias" />
+      <node id="Glee Cast" label="Glee Cast" />
+      <node id="Justin Timberlake" label="Justin Timberlake" />
+      <node id="Jennifer Lopez" label="Jennifer Lopez" />
+      <node id="The Pussycat Dolls" label="The Pussycat Dolls" />
+      <node id="Kanye West" label="Kanye West" />
+      <node id="Pixie Lott" label="Pixie Lott" />
+      <node id="Selena Gomez &amp; the Scene" label="Selena Gomez &amp; the Scene" />
+      <node id="The Veronicas" label="The Veronicas" />
+      <node id="Cobra Starship" label="Cobra Starship" />
+      <node id="The Smashing Pumpkins" label="The Smashing Pumpkins" />
+      <node id="Arcade Fire" label="Arcade Fire" />
+      <node id="Guns N' Roses" label="Guns N' Roses" />
+      <node id="The Smiths" label="The Smiths" />
+      <node id="Mariah Carey" label="Mariah Carey" />
+      <node id="Paramore" label="Paramore" />
+      <node id="Queen" label="Queen" />
+      <node id="The Kooks" label="The Kooks" />
+      <node id="Oasis" label="Oasis" />
+      <node id="Nirvana" label="Nirvana" />
+      <node id="P!nk" label="P!nk" />
+      <node id="Taylor Swift" label="Taylor Swift" />
+      <node id="Lindsay Lohan" label="Lindsay Lohan" />
+      <node id="Eminem" label="Eminem" />
+      <node id="The Rolling Stones" label="The Rolling Stones" />
+      <node id="Leona Lewis" label="Leona Lewis" />
+      <node id="Panic! At the Disco" label="Panic! At the Disco" />
+      <node id="The Pretty Reckless" label="The Pretty Reckless" />
+      <node id="blink-182" label="blink-182" />
+      <node id="Ashley Tisdale" label="Ashley Tisdale" />
+      <node id="Nicole Scherzinger" label="Nicole Scherzinger" />
+      <node id="Adam Lambert" label="Adam Lambert" />
+      <node id="Fall Out Boy" label="Fall Out Boy" />
+      <node id="My Chemical Romance" label="My Chemical Romance" />
+      <node id="Nightwish" label="Nightwish" />
+      <node id="Interpol" label="Interpol" />
+      <node id="The White Stripes" label="The White Stripes" />
+      <node id="Metallica" label="Metallica" />
+      <node id="Iron Maiden" label="Iron Maiden" />
+      <node id="Pearl Jam" label="Pearl Jam" />
+      <node id="Megadeth" label="Megadeth" />
+      <node id="Marilyn Manson" label="Marilyn Manson" />
+      <node id="Slipknot" label="Slipknot" />
+      <node id="The Doors" label="The Doors" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Radiohead" target="Björk" weight="46" />
+      <edge id="1" source="Radiohead" target="Massive Attack" weight="30" />
+      <edge id="2" source="Radiohead" target="Depeche Mode" weight="69" />
+      <edge id="3" source="Radiohead" target="Coldplay" weight="70" />
+      <edge id="4" source="Radiohead" target="Portishead" weight="34" />
+      <edge id="5" source="Radiohead" target="Gorillaz" weight="22" />
+      <edge id="6" source="Radiohead" target="Muse" weight="67" />
+      <edge id="7" source="Radiohead" target="Red Hot Chili Peppers" weight="34" />
+      <edge id="8" source="Radiohead" target="Nelly Furtado" weight="28" />
+      <edge id="9" source="Radiohead" target="Amy Winehouse" weight="35" />
+      <edge id="10" source="Radiohead" target="Adele" weight="24" />
+      <edge id="11" source="Radiohead" target="Madonna" weight="39" />
+      <edge id="12" source="Radiohead" target="Led Zeppelin" weight="22" />
+      <edge id="13" source="Radiohead" target="The Cure" weight="43" />
+      <edge id="14" source="Radiohead" target="Michael Jackson" weight="27" />
+      <edge id="15" source="Radiohead" target="Florence + the Machine" weight="26" />
+      <edge id="16" source="Radiohead" target="Snow Patrol" weight="27" />
+      <edge id="17" source="Radiohead" target="Blur" weight="40" />
+      <edge id="18" source="Radiohead" target="Sigur Rós" weight="48" />
+      <edge id="19" source="Radiohead" target="Alanis Morissette" weight="30" />
+      <edge id="20" source="Radiohead" target="Maroon 5" weight="31" />
+      <edge id="21" source="Radiohead" target="Shakira" weight="24" />
+      <edge id="22" source="Radiohead" target="Kylie Minogue" weight="28" />
+      <edge id="23" source="Radiohead" target="Duran Duran" weight="45" />
+      <edge id="24" source="Radiohead" target="Placebo" weight="48" />
+      <edge id="25" source="Radiohead" target="Keane" weight="44" />
+      <edge id="26" source="Radiohead" target="Arctic Monkeys" weight="35" />
+      <edge id="27" source="Radiohead" target="Kings of Leon" weight="22" />
+      <edge id="28" source="Radiohead" target="The Killers" weight="43" />
+      <edge id="29" source="Radiohead" target="Green Day" weight="24" />
+      <edge id="30" source="Radiohead" target="Foo Fighters" weight="29" />
+      <edge id="31" source="Radiohead" target="Death Cab for Cutie" weight="35" />
+      <edge id="32" source="Radiohead" target="Queens of the Stone Age" weight="22" />
+      <edge id="33" source="Radiohead" target="David Bowie" weight="39" />
+      <edge id="34" source="Radiohead" target="The Beatles" weight="52" />
+      <edge id="35" source="Radiohead" target="MGMT" weight="34" />
+      <edge id="36" source="Radiohead" target="Evanescence" weight="38" />
+      <edge id="37" source="Radiohead" target="Lily Allen" weight="23" />
+      <edge id="38" source="Radiohead" target="Lady Gaga" weight="29" />
+      <edge id="39" source="Radiohead" target="Nine Inch Nails" weight="35" />
+      <edge id="40" source="Radiohead" target="New Order" weight="28" />
+      <edge id="41" source="Radiohead" target="Britney Spears" weight="31" />
+      <edge id="42" source="Radiohead" target="The Strokes" weight="21" />
+      <edge id="43" source="Radiohead" target="Rihanna" weight="22" />
+      <edge id="44" source="Radiohead" target="Christina Aguilera" weight="41" />
+      <edge id="45" source="Radiohead" target="30 Seconds to Mars" weight="27" />
+      <edge id="46" source="Radiohead" target="Yeah Yeah Yeahs" weight="21" />
+      <edge id="47" source="Radiohead" target="Linkin Park" weight="27" />
+      <edge id="48" source="Radiohead" target="Joy Division" weight="35" />
+      <edge id="49" source="Radiohead" target="Franz Ferdinand" weight="22" />
+      <edge id="50" source="Radiohead" target="U2" weight="44" />
+      <edge id="51" source="Radiohead" target="Kelly Clarkson" weight="21" />
+      <edge id="52" source="Radiohead" target="Avril Lavigne" weight="28" />
+      <edge id="53" source="Radiohead" target="Pink Floyd" weight="44" />
+      <edge id="54" source="Radiohead" target="The Smashing Pumpkins" weight="34" />
+      <edge id="55" source="Radiohead" target="Arcade Fire" weight="23" />
+      <edge id="56" source="Radiohead" target="The Smiths" weight="23" />
+      <edge id="57" source="Radiohead" target="Mariah Carey" weight="21" />
+      <edge id="58" source="Radiohead" target="Paramore" weight="32" />
+      <edge id="59" source="Radiohead" target="Queen" weight="28" />
+      <edge id="60" source="Radiohead" target="The Kooks" weight="27" />
+      <edge id="61" source="Radiohead" target="Oasis" weight="33" />
+      <edge id="62" source="Radiohead" target="Nirvana" weight="36" />
+      <edge id="63" source="Radiohead" target="Interpol" weight="23" />
+      <edge id="64" source="Radiohead" target="The White Stripes" weight="29" />
+      <edge id="65" source="Björk" target="Massive Attack" weight="33" />
+      <edge id="66" source="Björk" target="Depeche Mode" weight="49" />
+      <edge id="67" source="Björk" target="Alicia Keys" weight="23" />
+      <edge id="68" source="Björk" target="Coldplay" weight="44" />
+      <edge id="69" source="Björk" target="Portishead" weight="34" />
+      <edge id="70" source="Björk" target="Gorillaz" weight="24" />
+      <edge id="71" source="Björk" target="Muse" weight="45" />
+      <edge id="72" source="Björk" target="Red Hot Chili Peppers" weight="23" />
+      <edge id="73" source="Björk" target="Nelly Furtado" weight="25" />
+      <edge id="74" source="Björk" target="Amy Winehouse" weight="43" />
+      <edge id="75" source="Björk" target="Adele" weight="24" />
+      <edge id="76" source="Björk" target="Madonna" weight="44" />
+      <edge id="77" source="Björk" target="The Cure" weight="28" />
+      <edge id="78" source="Björk" target="Michael Jackson" weight="34" />
+      <edge id="79" source="Björk" target="Florence + the Machine" weight="28" />
+      <edge id="80" source="Björk" target="Crystal Castles" weight="25" />
+      <edge id="81" source="Björk" target="Black Eyed Peas" weight="23" />
+      <edge id="82" source="Björk" target="Gwen Stefani" weight="24" />
+      <edge id="83" source="Björk" target="Blur" weight="28" />
+      <edge id="84" source="Björk" target="Sigur Rós" weight="46" />
+      <edge id="85" source="Björk" target="Alanis Morissette" weight="29" />
+      <edge id="86" source="Björk" target="Maroon 5" weight="24" />
+      <edge id="87" source="Björk" target="Shakira" weight="30" />
+      <edge id="88" source="Björk" target="Kylie Minogue" weight="32" />
+      <edge id="89" source="Björk" target="Daft Punk" weight="22" />
+      <edge id="90" source="Björk" target="Duran Duran" weight="36" />
+      <edge id="91" source="Björk" target="Placebo" weight="34" />
+      <edge id="92" source="Björk" target="Keane" weight="32" />
+      <edge id="93" source="Björk" target="Arctic Monkeys" weight="28" />
+      <edge id="94" source="Björk" target="The Killers" weight="32" />
+      <edge id="95" source="Björk" target="Beyoncé" weight="27" />
+      <edge id="96" source="Björk" target="Death Cab for Cutie" weight="27" />
+      <edge id="97" source="Björk" target="Queens of the Stone Age" weight="22" />
+      <edge id="98" source="Björk" target="David Bowie" weight="37" />
+      <edge id="99" source="Björk" target="The Beatles" weight="50" />
+      <edge id="100" source="Björk" target="MGMT" weight="41" />
+      <edge id="101" source="Björk" target="Evanescence" weight="34" />
+      <edge id="102" source="Björk" target="Lily Allen" weight="27" />
+      <edge id="103" source="Björk" target="Lady Gaga" weight="30" />
+      <edge id="104" source="Björk" target="Nine Inch Nails" weight="32" />
+      <edge id="105" source="Björk" target="t.A.T.u." weight="24" />
+      <edge id="106" source="Björk" target="Ashlee Simpson" weight="25" />
+      <edge id="107" source="Björk" target="Britney Spears" weight="35" />
+      <edge id="108" source="Björk" target="Rihanna" weight="25" />
+      <edge id="109" source="Björk" target="Christina Aguilera" weight="42" />
+      <edge id="110" source="Björk" target="30 Seconds to Mars" weight="21" />
+      <edge id="111" source="Björk" target="Yeah Yeah Yeahs" weight="25" />
+      <edge id="112" source="Björk" target="Katy Perry" weight="27" />
+      <edge id="113" source="Björk" target="Linkin Park" weight="23" />
+      <edge id="114" source="Björk" target="Hilary Duff" weight="25" />
+      <edge id="115" source="Björk" target="Miley Cyrus" weight="22" />
+      <edge id="116" source="Björk" target="U2" weight="28" />
+      <edge id="117" source="Björk" target="Kelly Clarkson" weight="30" />
+      <edge id="118" source="Björk" target="Avril Lavigne" weight="33" />
+      <edge id="119" source="Björk" target="Pink Floyd" weight="32" />
+      <edge id="120" source="Björk" target="The Smashing Pumpkins" weight="24" />
+      <edge id="121" source="Björk" target="P!nk" weight="21" />
+      <edge id="122" source="Björk" target="Mariah Carey" weight="25" />
+      <edge id="123" source="Björk" target="Paramore" weight="32" />
+      <edge id="124" source="Björk" target="Taylor Swift" weight="28" />
+      <edge id="125" source="Björk" target="Queen" weight="23" />
+      <edge id="126" source="Björk" target="Oasis" weight="23" />
+      <edge id="127" source="Björk" target="Nirvana" weight="26" />
+      <edge id="128" source="Björk" target="The White Stripes" weight="26" />
+      <edge id="129" source="Massive Attack" target="Depeche Mode" weight="39" />
+      <edge id="130" source="Massive Attack" target="Coldplay" weight="25" />
+      <edge id="131" source="Massive Attack" target="Portishead" weight="34" />
+      <edge id="132" source="Massive Attack" target="Muse" weight="28" />
+      <edge id="133" source="Massive Attack" target="Amy Winehouse" weight="22" />
+      <edge id="134" source="Massive Attack" target="Madonna" weight="28" />
+      <edge id="135" source="Massive Attack" target="Sigur Rós" weight="27" />
+      <edge id="136" source="Massive Attack" target="Kylie Minogue" weight="28" />
+      <edge id="137" source="Massive Attack" target="Duran Duran" weight="27" />
+      <edge id="138" source="Massive Attack" target="Placebo" weight="22" />
+      <edge id="139" source="Massive Attack" target="David Bowie" weight="24" />
+      <edge id="140" source="Massive Attack" target="The Beatles" weight="21" />
+      <edge id="141" source="Massive Attack" target="MGMT" weight="22" />
+      <edge id="142" source="Massive Attack" target="Nine Inch Nails" weight="21" />
+      <edge id="143" source="Massive Attack" target="Britney Spears" weight="21" />
+      <edge id="144" source="Massive Attack" target="Christina Aguilera" weight="23" />
+      <edge id="145" source="Massive Attack" target="Pink Floyd" weight="25" />
+      <edge id="146" source="Depeche Mode" target="Coldplay" weight="65" />
+      <edge id="147" source="Depeche Mode" target="Portishead" weight="36" />
+      <edge id="148" source="Depeche Mode" target="Gorillaz" weight="26" />
+      <edge id="149" source="Depeche Mode" target="Muse" weight="64" />
+      <edge id="150" source="Depeche Mode" target="Red Hot Chili Peppers" weight="29" />
+      <edge id="151" source="Depeche Mode" target="Nelly Furtado" weight="31" />
+      <edge id="152" source="Depeche Mode" target="Amy Winehouse" weight="42" />
+      <edge id="153" source="Depeche Mode" target="Adele" weight="28" />
+      <edge id="154" source="Depeche Mode" target="Madonna" weight="68" />
+      <edge id="155" source="Depeche Mode" target="Led Zeppelin" weight="29" />
+      <edge id="156" source="Depeche Mode" target="The Cure" weight="54" />
+      <edge id="157" source="Depeche Mode" target="Michael Jackson" weight="47" />
+      <edge id="158" source="Depeche Mode" target="Florence + the Machine" weight="29" />
+      <edge id="159" source="Depeche Mode" target="Crystal Castles" weight="27" />
+      <edge id="160" source="Depeche Mode" target="Black Eyed Peas" weight="25" />
+      <edge id="161" source="Depeche Mode" target="Gwen Stefani" weight="29" />
+      <edge id="162" source="Depeche Mode" target="Snow Patrol" weight="21" />
+      <edge id="163" source="Depeche Mode" target="Blur" weight="33" />
+      <edge id="164" source="Depeche Mode" target="Sigur Rós" weight="37" />
+      <edge id="165" source="Depeche Mode" target="Alanis Morissette" weight="24" />
+      <edge id="166" source="Depeche Mode" target="Maroon 5" weight="31" />
+      <edge id="167" source="Depeche Mode" target="Shakira" weight="35" />
+      <edge id="168" source="Depeche Mode" target="Kylie Minogue" weight="59" />
+      <edge id="169" source="Depeche Mode" target="Daft Punk" weight="41" />
+      <edge id="170" source="Depeche Mode" target="Duran Duran" weight="79" />
+      <edge id="171" source="Depeche Mode" target="Placebo" weight="55" />
+      <edge id="172" source="Depeche Mode" target="Keane" weight="46" />
+      <edge id="173" source="Depeche Mode" target="Arctic Monkeys" weight="32" />
+      <edge id="174" source="Depeche Mode" target="Kings of Leon" weight="22" />
+      <edge id="175" source="Depeche Mode" target="The Killers" weight="48" />
+      <edge id="176" source="Depeche Mode" target="Green Day" weight="24" />
+      <edge id="177" source="Depeche Mode" target="Foo Fighters" weight="25" />
+      <edge id="178" source="Depeche Mode" target="Beyoncé" weight="27" />
+      <edge id="179" source="Depeche Mode" target="Death Cab for Cutie" weight="32" />
+      <edge id="180" source="Depeche Mode" target="Queens of the Stone Age" weight="27" />
+      <edge id="181" source="Depeche Mode" target="David Bowie" weight="63" />
+      <edge id="182" source="Depeche Mode" target="The Beatles" weight="55" />
+      <edge id="183" source="Depeche Mode" target="MGMT" weight="40" />
+      <edge id="184" source="Depeche Mode" target="Evanescence" weight="44" />
+      <edge id="185" source="Depeche Mode" target="Lily Allen" weight="30" />
+      <edge id="186" source="Depeche Mode" target="Lady Gaga" weight="50" />
+      <edge id="187" source="Depeche Mode" target="Nine Inch Nails" weight="44" />
+      <edge id="188" source="Depeche Mode" target="3OH!3" weight="22" />
+      <edge id="189" source="Depeche Mode" target="t.A.T.u." weight="29" />
+      <edge id="190" source="Depeche Mode" target="Ashlee Simpson" weight="32" />
+      <edge id="191" source="Depeche Mode" target="New Order" weight="53" />
+      <edge id="192" source="Depeche Mode" target="Britney Spears" weight="51" />
+      <edge id="193" source="Depeche Mode" target="The Strokes" weight="25" />
+      <edge id="194" source="Depeche Mode" target="Rihanna" weight="31" />
+      <edge id="195" source="Depeche Mode" target="Christina Aguilera" weight="51" />
+      <edge id="196" source="Depeche Mode" target="David Guetta" weight="22" />
+      <edge id="197" source="Depeche Mode" target="30 Seconds to Mars" weight="31" />
+      <edge id="198" source="Depeche Mode" target="Yeah Yeah Yeahs" weight="23" />
+      <edge id="199" source="Depeche Mode" target="Katy Perry" weight="31" />
+      <edge id="200" source="Depeche Mode" target="Linkin Park" weight="24" />
+      <edge id="201" source="Depeche Mode" target="Hilary Duff" weight="27" />
+      <edge id="202" source="Depeche Mode" target="Miley Cyrus" weight="24" />
+      <edge id="203" source="Depeche Mode" target="Joy Division" weight="40" />
+      <edge id="204" source="Depeche Mode" target="Franz Ferdinand" weight="27" />
+      <edge id="205" source="Depeche Mode" target="Demi Lovato" weight="23" />
+      <edge id="206" source="Depeche Mode" target="U2" weight="51" />
+      <edge id="207" source="Depeche Mode" target="Kelly Clarkson" weight="27" />
+      <edge id="208" source="Depeche Mode" target="Avril Lavigne" weight="38" />
+      <edge id="209" source="Depeche Mode" target="Pink Floyd" weight="43" />
+      <edge id="210" source="Depeche Mode" target="Guns N' Roses" weight="22" />
+      <edge id="211" source="Depeche Mode" target="The Smashing Pumpkins" weight="28" />
+      <edge id="212" source="Depeche Mode" target="The Smiths" weight="31" />
+      <edge id="213" source="Depeche Mode" target="Lindsay Lohan" weight="21" />
+      <edge id="214" source="Depeche Mode" target="Mariah Carey" weight="29" />
+      <edge id="215" source="Depeche Mode" target="Paramore" weight="39" />
+      <edge id="216" source="Depeche Mode" target="Taylor Swift" weight="21" />
+      <edge id="217" source="Depeche Mode" target="Queen" weight="40" />
+      <edge id="218" source="Depeche Mode" target="Eminem" weight="24" />
+      <edge id="219" source="Depeche Mode" target="The Kooks" weight="25" />
+      <edge id="220" source="Depeche Mode" target="Oasis" weight="35" />
+      <edge id="221" source="Depeche Mode" target="The Rolling Stones" weight="23" />
+      <edge id="222" source="Depeche Mode" target="Nirvana" weight="34" />
+      <edge id="223" source="Depeche Mode" target="Interpol" weight="24" />
+      <edge id="224" source="Depeche Mode" target="The White Stripes" weight="32" />
+      <edge id="225" source="Depeche Mode" target="Metallica" weight="21" />
+      <edge id="226" source="Depeche Mode" target="Iron Maiden" weight="23" />
+      <edge id="227" source="Depeche Mode" target="Marilyn Manson" weight="21" />
+      <edge id="228" source="Coldplay" target="Alicia Keys" weight="23" />
+      <edge id="229" source="Coldplay" target="Portishead" weight="27" />
+      <edge id="230" source="Coldplay" target="Gorillaz" weight="27" />
+      <edge id="231" source="Coldplay" target="Muse" weight="64" />
+      <edge id="232" source="Coldplay" target="Red Hot Chili Peppers" weight="31" />
+      <edge id="233" source="Coldplay" target="Nelly Furtado" weight="27" />
+      <edge id="234" source="Coldplay" target="Amy Winehouse" weight="41" />
+      <edge id="235" source="Coldplay" target="Adele" weight="30" />
+      <edge id="236" source="Coldplay" target="Madonna" weight="40" />
+      <edge id="237" source="Coldplay" target="Led Zeppelin" weight="24" />
+      <edge id="238" source="Coldplay" target="The Cure" weight="41" />
+      <edge id="239" source="Coldplay" target="Michael Jackson" weight="34" />
+      <edge id="240" source="Coldplay" target="Florence + the Machine" weight="30" />
+      <edge id="241" source="Coldplay" target="Black Eyed Peas" weight="23" />
+      <edge id="242" source="Coldplay" target="Gwen Stefani" weight="22" />
+      <edge id="243" source="Coldplay" target="Snow Patrol" weight="33" />
+      <edge id="244" source="Coldplay" target="Blur" weight="34" />
+      <edge id="245" source="Coldplay" target="Sigur Rós" weight="32" />
+      <edge id="246" source="Coldplay" target="Alanis Morissette" weight="33" />
+      <edge id="247" source="Coldplay" target="Maroon 5" weight="31" />
+      <edge id="248" source="Coldplay" target="Shakira" weight="34" />
+      <edge id="249" source="Coldplay" target="Kylie Minogue" weight="29" />
+      <edge id="250" source="Coldplay" target="Duran Duran" weight="46" />
+      <edge id="251" source="Coldplay" target="Placebo" weight="49" />
+      <edge id="252" source="Coldplay" target="Keane" weight="52" />
+      <edge id="253" source="Coldplay" target="Arctic Monkeys" weight="40" />
+      <edge id="254" source="Coldplay" target="Kings of Leon" weight="25" />
+      <edge id="255" source="Coldplay" target="The Killers" weight="46" />
+      <edge id="256" source="Coldplay" target="Green Day" weight="28" />
+      <edge id="257" source="Coldplay" target="Foo Fighters" weight="26" />
+      <edge id="258" source="Coldplay" target="Beyoncé" weight="27" />
+      <edge id="259" source="Coldplay" target="Death Cab for Cutie" weight="40" />
+      <edge id="260" source="Coldplay" target="Queens of the Stone Age" weight="24" />
+      <edge id="261" source="Coldplay" target="David Bowie" weight="41" />
+      <edge id="262" source="Coldplay" target="The Beatles" weight="59" />
+      <edge id="263" source="Coldplay" target="MGMT" weight="39" />
+      <edge id="264" source="Coldplay" target="Evanescence" weight="35" />
+      <edge id="265" source="Coldplay" target="Lily Allen" weight="33" />
+      <edge id="266" source="Coldplay" target="Lady Gaga" weight="36" />
+      <edge id="267" source="Coldplay" target="Nine Inch Nails" weight="29" />
+      <edge id="268" source="Coldplay" target="Ashlee Simpson" weight="27" />
+      <edge id="269" source="Coldplay" target="New Order" weight="24" />
+      <edge id="270" source="Coldplay" target="Britney Spears" weight="36" />
+      <edge id="271" source="Coldplay" target="The Strokes" weight="23" />
+      <edge id="272" source="Coldplay" target="Rihanna" weight="32" />
+      <edge id="273" source="Coldplay" target="Christina Aguilera" weight="39" />
+      <edge id="274" source="Coldplay" target="30 Seconds to Mars" weight="29" />
+      <edge id="275" source="Coldplay" target="Yeah Yeah Yeahs" weight="21" />
+      <edge id="276" source="Coldplay" target="Katy Perry" weight="30" />
+      <edge id="277" source="Coldplay" target="Linkin Park" weight="25" />
+      <edge id="278" source="Coldplay" target="Hilary Duff" weight="25" />
+      <edge id="279" source="Coldplay" target="Miley Cyrus" weight="21" />
+      <edge id="280" source="Coldplay" target="Joy Division" weight="24" />
+      <edge id="281" source="Coldplay" target="Franz Ferdinand" weight="25" />
+      <edge id="282" source="Coldplay" target="Demi Lovato" weight="22" />
+      <edge id="283" source="Coldplay" target="U2" weight="47" />
+      <edge id="284" source="Coldplay" target="Kelly Clarkson" weight="32" />
+      <edge id="285" source="Coldplay" target="Avril Lavigne" weight="39" />
+      <edge id="286" source="Coldplay" target="Pink Floyd" weight="32" />
+      <edge id="287" source="Coldplay" target="Guns N' Roses" weight="22" />
+      <edge id="288" source="Coldplay" target="The Smashing Pumpkins" weight="29" />
+      <edge id="289" source="Coldplay" target="Arcade Fire" weight="24" />
+      <edge id="290" source="Coldplay" target="The Smiths" weight="25" />
+      <edge id="291" source="Coldplay" target="P!nk" weight="23" />
+      <edge id="292" source="Coldplay" target="Panic! At the Disco" weight="24" />
+      <edge id="293" source="Coldplay" target="Mariah Carey" weight="26" />
+      <edge id="294" source="Coldplay" target="Paramore" weight="37" />
+      <edge id="295" source="Coldplay" target="Taylor Swift" weight="28" />
+      <edge id="296" source="Coldplay" target="Queen" weight="32" />
+      <edge id="297" source="Coldplay" target="The Kooks" weight="30" />
+      <edge id="298" source="Coldplay" target="Oasis" weight="38" />
+      <edge id="299" source="Coldplay" target="Nirvana" weight="31" />
+      <edge id="300" source="Coldplay" target="The White Stripes" weight="30" />
+      <edge id="301" source="Coldplay" target="Interpol" weight="22" />
+      <edge id="302" source="Portishead" target="Muse" weight="35" />
+      <edge id="303" source="Portishead" target="Nelly Furtado" weight="22" />
+      <edge id="304" source="Portishead" target="Amy Winehouse" weight="23" />
+      <edge id="305" source="Portishead" target="Madonna" weight="24" />
+      <edge id="306" source="Portishead" target="The Cure" weight="22" />
+      <edge id="307" source="Portishead" target="Sigur Rós" weight="26" />
+      <edge id="308" source="Portishead" target="Kylie Minogue" weight="23" />
+      <edge id="309" source="Portishead" target="Duran Duran" weight="26" />
+      <edge id="310" source="Portishead" target="Placebo" weight="28" />
+      <edge id="311" source="Portishead" target="David Bowie" weight="25" />
+      <edge id="312" source="Portishead" target="The Beatles" weight="22" />
+      <edge id="313" source="Portishead" target="Evanescence" weight="25" />
+      <edge id="314" source="Portishead" target="Nine Inch Nails" weight="22" />
+      <edge id="315" source="Portishead" target="Christina Aguilera" weight="22" />
+      <edge id="316" source="Portishead" target="Pink Floyd" weight="24" />
+      <edge id="317" source="Gorillaz" target="Muse" weight="23" />
+      <edge id="318" source="Gorillaz" target="Madonna" weight="22" />
+      <edge id="319" source="Gorillaz" target="Kylie Minogue" weight="24" />
+      <edge id="320" source="Gorillaz" target="Placebo" weight="21" />
+      <edge id="321" source="Gorillaz" target="Keane" weight="23" />
+      <edge id="322" source="Gorillaz" target="Arctic Monkeys" weight="21" />
+      <edge id="323" source="Gorillaz" target="The Killers" weight="21" />
+      <edge id="324" source="Gorillaz" target="The Beatles" weight="22" />
+      <edge id="325" source="Gorillaz" target="MGMT" weight="24" />
+      <edge id="326" source="Gorillaz" target="Lily Allen" weight="21" />
+      <edge id="327" source="Muse" target="Red Hot Chili Peppers" weight="33" />
+      <edge id="328" source="Muse" target="Nelly Furtado" weight="29" />
+      <edge id="329" source="Muse" target="Amy Winehouse" weight="35" />
+      <edge id="330" source="Muse" target="Adele" weight="26" />
+      <edge id="331" source="Muse" target="Madonna" weight="42" />
+      <edge id="332" source="Muse" target="Led Zeppelin" weight="23" />
+      <edge id="333" source="Muse" target="The Cure" weight="34" />
+      <edge id="334" source="Muse" target="Michael Jackson" weight="34" />
+      <edge id="335" source="Muse" target="Florence + the Machine" weight="31" />
+      <edge id="336" source="Muse" target="Black Eyed Peas" weight="26" />
+      <edge id="337" source="Muse" target="Gwen Stefani" weight="25" />
+      <edge id="338" source="Muse" target="Snow Patrol" weight="26" />
+      <edge id="339" source="Muse" target="Blur" weight="34" />
+      <edge id="340" source="Muse" target="Sigur Rós" weight="38" />
+      <edge id="341" source="Muse" target="Alanis Morissette" weight="30" />
+      <edge id="342" source="Muse" target="Maroon 5" weight="29" />
+      <edge id="343" source="Muse" target="Shakira" weight="33" />
+      <edge id="344" source="Muse" target="Kylie Minogue" weight="33" />
+      <edge id="345" source="Muse" target="Daft Punk" weight="26" />
+      <edge id="346" source="Muse" target="Duran Duran" weight="44" />
+      <edge id="347" source="Muse" target="Placebo" weight="50" />
+      <edge id="348" source="Muse" target="Keane" weight="44" />
+      <edge id="349" source="Muse" target="Arctic Monkeys" weight="36" />
+      <edge id="350" source="Muse" target="Kings of Leon" weight="24" />
+      <edge id="351" source="Muse" target="The Killers" weight="53" />
+      <edge id="352" source="Muse" target="Green Day" weight="30" />
+      <edge id="353" source="Muse" target="Foo Fighters" weight="30" />
+      <edge id="354" source="Muse" target="Beyoncé" weight="26" />
+      <edge id="355" source="Muse" target="Death Cab for Cutie" weight="32" />
+      <edge id="356" source="Muse" target="Queens of the Stone Age" weight="26" />
+      <edge id="357" source="Muse" target="David Bowie" weight="42" />
+      <edge id="358" source="Muse" target="The Beatles" weight="54" />
+      <edge id="359" source="Muse" target="MGMT" weight="37" />
+      <edge id="360" source="Muse" target="Evanescence" weight="39" />
+      <edge id="361" source="Muse" target="Lily Allen" weight="29" />
+      <edge id="362" source="Muse" target="Lady Gaga" weight="41" />
+      <edge id="363" source="Muse" target="Nine Inch Nails" weight="39" />
+      <edge id="364" source="Muse" target="Ashlee Simpson" weight="27" />
+      <edge id="365" source="Muse" target="New Order" weight="25" />
+      <edge id="366" source="Muse" target="Britney Spears" weight="39" />
+      <edge id="367" source="Muse" target="The Strokes" weight="24" />
+      <edge id="368" source="Muse" target="Rihanna" weight="28" />
+      <edge id="369" source="Muse" target="Christina Aguilera" weight="44" />
+      <edge id="370" source="Muse" target="30 Seconds to Mars" weight="34" />
+      <edge id="371" source="Muse" target="Yeah Yeah Yeahs" weight="23" />
+      <edge id="372" source="Muse" target="Katy Perry" weight="32" />
+      <edge id="373" source="Muse" target="Linkin Park" weight="33" />
+      <edge id="374" source="Muse" target="Hilary Duff" weight="24" />
+      <edge id="375" source="Muse" target="Miley Cyrus" weight="24" />
+      <edge id="376" source="Muse" target="Joy Division" weight="24" />
+      <edge id="377" source="Muse" target="Franz Ferdinand" weight="24" />
+      <edge id="378" source="Muse" target="Demi Lovato" weight="23" />
+      <edge id="379" source="Muse" target="U2" weight="45" />
+      <edge id="380" source="Muse" target="Kelly Clarkson" weight="31" />
+      <edge id="381" source="Muse" target="Avril Lavigne" weight="39" />
+      <edge id="382" source="Muse" target="Pink Floyd" weight="41" />
+      <edge id="383" source="Muse" target="Guns N' Roses" weight="22" />
+      <edge id="384" source="Muse" target="The Smashing Pumpkins" weight="32" />
+      <edge id="385" source="Muse" target="Arcade Fire" weight="27" />
+      <edge id="386" source="Muse" target="P!nk" weight="24" />
+      <edge id="387" source="Muse" target="Panic! At the Disco" weight="25" />
+      <edge id="388" source="Muse" target="Mariah Carey" weight="23" />
+      <edge id="389" source="Muse" target="Paramore" weight="40" />
+      <edge id="390" source="Muse" target="Taylor Swift" weight="25" />
+      <edge id="391" source="Muse" target="Queen" weight="29" />
+      <edge id="392" source="Muse" target="Eminem" weight="21" />
+      <edge id="393" source="Muse" target="The Kooks" weight="31" />
+      <edge id="394" source="Muse" target="Oasis" weight="37" />
+      <edge id="395" source="Muse" target="Nirvana" weight="30" />
+      <edge id="396" source="Muse" target="The Pretty Reckless" weight="21" />
+      <edge id="397" source="Muse" target="The White Stripes" weight="30" />
+      <edge id="398" source="Muse" target="Metallica" weight="21" />
+      <edge id="399" source="Muse" target="Marilyn Manson" weight="21" />
+      <edge id="400" source="Red Hot Chili Peppers" target="Madonna" weight="33" />
+      <edge id="401" source="Red Hot Chili Peppers" target="Led Zeppelin" weight="24" />
+      <edge id="402" source="Red Hot Chili Peppers" target="The Cure" weight="27" />
+      <edge id="403" source="Red Hot Chili Peppers" target="Michael Jackson" weight="30" />
+      <edge id="404" source="Red Hot Chili Peppers" target="Maroon 5" weight="28" />
+      <edge id="405" source="Red Hot Chili Peppers" target="Shakira" weight="23" />
+      <edge id="406" source="Red Hot Chili Peppers" target="Kylie Minogue" weight="25" />
+      <edge id="407" source="Red Hot Chili Peppers" target="Duran Duran" weight="27" />
+      <edge id="408" source="Red Hot Chili Peppers" target="Placebo" weight="27" />
+      <edge id="409" source="Red Hot Chili Peppers" target="Arctic Monkeys" weight="22" />
+      <edge id="410" source="Red Hot Chili Peppers" target="The Killers" weight="31" />
+      <edge id="411" source="Red Hot Chili Peppers" target="Green Day" weight="31" />
+      <edge id="412" source="Red Hot Chili Peppers" target="Foo Fighters" weight="28" />
+      <edge id="413" source="Red Hot Chili Peppers" target="Death Cab for Cutie" weight="24" />
+      <edge id="414" source="Red Hot Chili Peppers" target="David Bowie" weight="28" />
+      <edge id="415" source="Red Hot Chili Peppers" target="The Beatles" weight="36" />
+      <edge id="416" source="Red Hot Chili Peppers" target="Evanescence" weight="25" />
+      <edge id="417" source="Red Hot Chili Peppers" target="Lady Gaga" weight="23" />
+      <edge id="418" source="Red Hot Chili Peppers" target="Ashlee Simpson" weight="21" />
+      <edge id="419" source="Red Hot Chili Peppers" target="Britney Spears" weight="26" />
+      <edge id="420" source="Red Hot Chili Peppers" target="Christina Aguilera" weight="27" />
+      <edge id="421" source="Red Hot Chili Peppers" target="Katy Perry" weight="23" />
+      <edge id="422" source="Red Hot Chili Peppers" target="Linkin Park" weight="22" />
+      <edge id="423" source="Red Hot Chili Peppers" target="U2" weight="27" />
+      <edge id="424" source="Red Hot Chili Peppers" target="Kelly Clarkson" weight="28" />
+      <edge id="425" source="Red Hot Chili Peppers" target="Avril Lavigne" weight="31" />
+      <edge id="426" source="Red Hot Chili Peppers" target="Paramore" weight="33" />
+      <edge id="427" source="Red Hot Chili Peppers" target="Queen" weight="24" />
+      <edge id="428" source="Red Hot Chili Peppers" target="Eminem" weight="21" />
+      <edge id="429" source="Red Hot Chili Peppers" target="Oasis" weight="25" />
+      <edge id="430" source="Red Hot Chili Peppers" target="blink-182" weight="22" />
+      <edge id="431" source="Red Hot Chili Peppers" target="Nirvana" weight="31" />
+      <edge id="432" source="Red Hot Chili Peppers" target="The Pretty Reckless" weight="21" />
+      <edge id="433" source="Red Hot Chili Peppers" target="Nine Inch Nails" weight="23" />
+      <edge id="434" source="Red Hot Chili Peppers" target="Pink Floyd" weight="23" />
+      <edge id="435" source="Red Hot Chili Peppers" target="The White Stripes" weight="25" />
+      <edge id="436" source="Red Hot Chili Peppers" target="Metallica" weight="27" />
+      <edge id="437" source="Red Hot Chili Peppers" target="30 Seconds to Mars" weight="24" />
+      <edge id="438" source="Red Hot Chili Peppers" target="Marilyn Manson" weight="21" />
+      <edge id="439" source="Red Hot Chili Peppers" target="The Smashing Pumpkins" weight="25" />
+      <edge id="440" source="Nelly Furtado" target="Alicia Keys" weight="27" />
+      <edge id="441" source="Nelly Furtado" target="Amy Winehouse" weight="28" />
+      <edge id="442" source="Nelly Furtado" target="Timbaland" weight="28" />
+      <edge id="443" source="Nelly Furtado" target="Madonna" weight="54" />
+      <edge id="444" source="Nelly Furtado" target="Michael Jackson" weight="33" />
+      <edge id="445" source="Nelly Furtado" target="Black Eyed Peas" weight="28" />
+      <edge id="446" source="Nelly Furtado" target="Gwen Stefani" weight="33" />
+      <edge id="447" source="Nelly Furtado" target="Alanis Morissette" weight="29" />
+      <edge id="448" source="Nelly Furtado" target="Maroon 5" weight="28" />
+      <edge id="449" source="Nelly Furtado" target="Shakira" weight="38" />
+      <edge id="450" source="Nelly Furtado" target="Kylie Minogue" weight="37" />
+      <edge id="451" source="Nelly Furtado" target="Duran Duran" weight="26" />
+      <edge id="452" source="Nelly Furtado" target="Placebo" weight="22" />
+      <edge id="453" source="Nelly Furtado" target="The Killers" weight="27" />
+      <edge id="454" source="Nelly Furtado" target="Beyoncé" weight="43" />
+      <edge id="455" source="Nelly Furtado" target="Ciara" weight="22" />
+      <edge id="456" source="Nelly Furtado" target="Death Cab for Cutie" weight="22" />
+      <edge id="457" source="Nelly Furtado" target="David Bowie" weight="23" />
+      <edge id="458" source="Nelly Furtado" target="The Beatles" weight="26" />
+      <edge id="459" source="Nelly Furtado" target="Evanescence" weight="27" />
+      <edge id="460" source="Nelly Furtado" target="Lily Allen" weight="24" />
+      <edge id="461" source="Nelly Furtado" target="Lady Gaga" weight="40" />
+      <edge id="462" source="Nelly Furtado" target="3OH!3" weight="24" />
+      <edge id="463" source="Nelly Furtado" target="Ke$ha" weight="22" />
+      <edge id="464" source="Nelly Furtado" target="Ashlee Simpson" weight="27" />
+      <edge id="465" source="Nelly Furtado" target="Britney Spears" weight="43" />
+      <edge id="466" source="Nelly Furtado" target="Rihanna" weight="49" />
+      <edge id="467" source="Nelly Furtado" target="Christina Aguilera" weight="51" />
+      <edge id="468" source="Nelly Furtado" target="30 Seconds to Mars" weight="21" />
+      <edge id="469" source="Nelly Furtado" target="Katy Perry" weight="30" />
+      <edge id="470" source="Nelly Furtado" target="Hilary Duff" weight="30" />
+      <edge id="471" source="Nelly Furtado" target="Miley Cyrus" weight="30" />
+      <edge id="472" source="Nelly Furtado" target="Enrique Iglesias" weight="21" />
+      <edge id="473" source="Nelly Furtado" target="Demi Lovato" weight="21" />
+      <edge id="474" source="Nelly Furtado" target="Glee Cast" weight="21" />
+      <edge id="475" source="Nelly Furtado" target="Justin Timberlake" weight="30" />
+      <edge id="476" source="Nelly Furtado" target="Jennifer Lopez" weight="25" />
+      <edge id="477" source="Nelly Furtado" target="The Pussycat Dolls" weight="23" />
+      <edge id="478" source="Nelly Furtado" target="Kelly Clarkson" weight="37" />
+      <edge id="479" source="Nelly Furtado" target="Avril Lavigne" weight="46" />
+      <edge id="480" source="Nelly Furtado" target="Ashley Tisdale" weight="24" />
+      <edge id="481" source="Nelly Furtado" target="Lindsay Lohan" weight="24" />
+      <edge id="482" source="Nelly Furtado" target="P!nk" weight="36" />
+      <edge id="483" source="Nelly Furtado" target="Mariah Carey" weight="32" />
+      <edge id="484" source="Nelly Furtado" target="Paramore" weight="25" />
+      <edge id="485" source="Nelly Furtado" target="Taylor Swift" weight="28" />
+      <edge id="486" source="Nelly Furtado" target="Eminem" weight="25" />
+      <edge id="487" source="Nelly Furtado" target="Leona Lewis" weight="21" />
+      <edge id="488" source="Amy Winehouse" target="Alicia Keys" weight="31" />
+      <edge id="489" source="Amy Winehouse" target="Adele" weight="31" />
+      <edge id="490" source="Amy Winehouse" target="Madonna" weight="36" />
+      <edge id="491" source="Amy Winehouse" target="The Cure" weight="22" />
+      <edge id="492" source="Amy Winehouse" target="Michael Jackson" weight="30" />
+      <edge id="493" source="Amy Winehouse" target="Florence + the Machine" weight="26" />
+      <edge id="494" source="Amy Winehouse" target="Black Eyed Peas" weight="22" />
+      <edge id="495" source="Amy Winehouse" target="Gwen Stefani" weight="25" />
+      <edge id="496" source="Amy Winehouse" target="Blur" weight="22" />
+      <edge id="497" source="Amy Winehouse" target="Alanis Morissette" weight="29" />
+      <edge id="498" source="Amy Winehouse" target="Maroon 5" weight="22" />
+      <edge id="499" source="Amy Winehouse" target="Shakira" weight="28" />
+      <edge id="500" source="Amy Winehouse" target="Kylie Minogue" weight="29" />
+      <edge id="501" source="Amy Winehouse" target="Duran Duran" weight="22" />
+      <edge id="502" source="Amy Winehouse" target="Placebo" weight="26" />
+      <edge id="503" source="Amy Winehouse" target="Keane" weight="31" />
+      <edge id="504" source="Amy Winehouse" target="Arctic Monkeys" weight="26" />
+      <edge id="505" source="Amy Winehouse" target="The Killers" weight="29" />
+      <edge id="506" source="Amy Winehouse" target="Beyoncé" weight="29" />
+      <edge id="507" source="Amy Winehouse" target="Death Cab for Cutie" weight="21" />
+      <edge id="508" source="Amy Winehouse" target="David Bowie" weight="27" />
+      <edge id="509" source="Amy Winehouse" target="The Beatles" weight="45" />
+      <edge id="510" source="Amy Winehouse" target="MGMT" weight="30" />
+      <edge id="511" source="Amy Winehouse" target="Evanescence" weight="27" />
+      <edge id="512" source="Amy Winehouse" target="Lily Allen" weight="27" />
+      <edge id="513" source="Amy Winehouse" target="Pink Floyd" weight="25" />
+      <edge id="514" source="Amy Winehouse" target="U2" weight="21" />
+      <edge id="515" source="Amy Winehouse" target="Lady Gaga" weight="33" />
+      <edge id="516" source="Amy Winehouse" target="Britney Spears" weight="35" />
+      <edge id="517" source="Amy Winehouse" target="Rihanna" weight="29" />
+      <edge id="518" source="Amy Winehouse" target="Christina Aguilera" weight="40" />
+      <edge id="519" source="Amy Winehouse" target="Katy Perry" weight="29" />
+      <edge id="520" source="Amy Winehouse" target="Hilary Duff" weight="25" />
+      <edge id="521" source="Amy Winehouse" target="Miley Cyrus" weight="22" />
+      <edge id="522" source="Amy Winehouse" target="Kelly Clarkson" weight="28" />
+      <edge id="523" source="Amy Winehouse" target="Avril Lavigne" weight="32" />
+      <edge id="524" source="Amy Winehouse" target="P!nk" weight="24" />
+      <edge id="525" source="Amy Winehouse" target="Mariah Carey" weight="27" />
+      <edge id="526" source="Amy Winehouse" target="Paramore" weight="29" />
+      <edge id="527" source="Amy Winehouse" target="Taylor Swift" weight="33" />
+      <edge id="528" source="Amy Winehouse" target="Queen" weight="21" />
+      <edge id="529" source="Amy Winehouse" target="The Kooks" weight="25" />
+      <edge id="530" source="Amy Winehouse" target="Leona Lewis" weight="21" />
+      <edge id="531" source="Adele" target="Madonna" weight="25" />
+      <edge id="532" source="Adele" target="Florence + the Machine" weight="24" />
+      <edge id="533" source="Adele" target="Shakira" weight="22" />
+      <edge id="534" source="Adele" target="Placebo" weight="22" />
+      <edge id="535" source="Adele" target="Keane" weight="23" />
+      <edge id="536" source="Adele" target="The Killers" weight="24" />
+      <edge id="537" source="Adele" target="The Beatles" weight="29" />
+      <edge id="538" source="Adele" target="MGMT" weight="21" />
+      <edge id="539" source="Adele" target="Lily Allen" weight="22" />
+      <edge id="540" source="Adele" target="Lady Gaga" weight="22" />
+      <edge id="541" source="Adele" target="Britney Spears" weight="21" />
+      <edge id="542" source="Adele" target="Christina Aguilera" weight="27" />
+      <edge id="543" source="Adele" target="Avril Lavigne" weight="23" />
+      <edge id="544" source="Adele" target="Taylor Swift" weight="21" />
+      <edge id="545" source="Madonna" target="Alicia Keys" weight="38" />
+      <edge id="546" source="Madonna" target="Timbaland" weight="33" />
+      <edge id="547" source="Madonna" target="Led Zeppelin" weight="21" />
+      <edge id="548" source="Madonna" target="The Cure" weight="36" />
+      <edge id="549" source="Madonna" target="Michael Jackson" weight="65" />
+      <edge id="550" source="Madonna" target="Florence + the Machine" weight="27" />
+      <edge id="551" source="Madonna" target="Black Eyed Peas" weight="39" />
+      <edge id="552" source="Madonna" target="Gwen Stefani" weight="39" />
+      <edge id="553" source="Madonna" target="Blur" weight="22" />
+      <edge id="554" source="Madonna" target="Sigur Rós" weight="24" />
+      <edge id="555" source="Madonna" target="Alanis Morissette" weight="37" />
+      <edge id="556" source="Madonna" target="Maroon 5" weight="34" />
+      <edge id="557" source="Madonna" target="Shakira" weight="48" />
+      <edge id="558" source="Madonna" target="Kylie Minogue" weight="86" />
+      <edge id="559" source="Madonna" target="Daft Punk" weight="40" />
+      <edge id="560" source="Madonna" target="Duran Duran" weight="64" />
+      <edge id="561" source="Madonna" target="Placebo" weight="39" />
+      <edge id="562" source="Madonna" target="Keane" weight="28" />
+      <edge id="563" source="Madonna" target="Arctic Monkeys" weight="23" />
+      <edge id="564" source="Madonna" target="Kings of Leon" weight="23" />
+      <edge id="565" source="Madonna" target="The Killers" weight="44" />
+      <edge id="566" source="Madonna" target="Green Day" weight="28" />
+      <edge id="567" source="Madonna" target="Foo Fighters" weight="24" />
+      <edge id="568" source="Madonna" target="Beyoncé" weight="66" />
+      <edge id="569" source="Madonna" target="Ciara" weight="30" />
+      <edge id="570" source="Madonna" target="Death Cab for Cutie" weight="32" />
+      <edge id="571" source="Madonna" target="David Bowie" weight="45" />
+      <edge id="572" source="Madonna" target="The Beatles" weight="44" />
+      <edge id="573" source="Madonna" target="MGMT" weight="31" />
+      <edge id="574" source="Madonna" target="Evanescence" weight="40" />
+      <edge id="575" source="Madonna" target="Lily Allen" weight="34" />
+      <edge id="576" source="Madonna" target="Lady Gaga" weight="79" />
+      <edge id="577" source="Madonna" target="Nine Inch Nails" weight="34" />
+      <edge id="578" source="Madonna" target="3OH!3" weight="30" />
+      <edge id="579" source="Madonna" target="Ke$ha" weight="34" />
+      <edge id="580" source="Madonna" target="t.A.T.u." weight="24" />
+      <edge id="581" source="Madonna" target="Ashlee Simpson" weight="39" />
+      <edge id="582" source="Madonna" target="New Order" weight="27" />
+      <edge id="583" source="Madonna" target="Britney Spears" weight="95" />
+      <edge id="584" source="Madonna" target="The Strokes" weight="21" />
+      <edge id="585" source="Madonna" target="Rihanna" weight="64" />
+      <edge id="586" source="Madonna" target="Christina Aguilera" weight="96" />
+      <edge id="587" source="Madonna" target="David Guetta" weight="27" />
+      <edge id="588" source="Madonna" target="30 Seconds to Mars" weight="27" />
+      <edge id="589" source="Madonna" target="Katy Perry" weight="53" />
+      <edge id="590" source="Madonna" target="Linkin Park" weight="30" />
+      <edge id="591" source="Madonna" target="Kanye West" weight="30" />
+      <edge id="592" source="Madonna" target="Pixie Lott" weight="23" />
+      <edge id="593" source="Madonna" target="Hilary Duff" weight="46" />
+      <edge id="594" source="Madonna" target="Miley Cyrus" weight="42" />
+      <edge id="595" source="Madonna" target="Enrique Iglesias" weight="25" />
+      <edge id="596" source="Madonna" target="Demi Lovato" weight="35" />
+      <edge id="597" source="Madonna" target="Selena Gomez &amp; the Scene" weight="26" />
+      <edge id="598" source="Madonna" target="Glee Cast" weight="32" />
+      <edge id="599" source="Madonna" target="Justin Timberlake" weight="34" />
+      <edge id="600" source="Madonna" target="U2" weight="38" />
+      <edge id="601" source="Madonna" target="Jennifer Lopez" weight="32" />
+      <edge id="602" source="Madonna" target="The Pussycat Dolls" weight="30" />
+      <edge id="603" source="Madonna" target="Kelly Clarkson" weight="44" />
+      <edge id="604" source="Madonna" target="Avril Lavigne" weight="53" />
+      <edge id="605" source="Madonna" target="Pink Floyd" weight="29" />
+      <edge id="606" source="Madonna" target="The Smiths" weight="21" />
+      <edge id="607" source="Madonna" target="Ashley Tisdale" weight="31" />
+      <edge id="608" source="Madonna" target="Lindsay Lohan" weight="39" />
+      <edge id="609" source="Madonna" target="Nicole Scherzinger" weight="22" />
+      <edge id="610" source="Madonna" target="P!nk" weight="41" />
+      <edge id="611" source="Madonna" target="Panic! At the Disco" weight="22" />
+      <edge id="612" source="Madonna" target="Mariah Carey" weight="52" />
+      <edge id="613" source="Madonna" target="Adam Lambert" weight="22" />
+      <edge id="614" source="Madonna" target="Paramore" weight="39" />
+      <edge id="615" source="Madonna" target="Taylor Swift" weight="41" />
+      <edge id="616" source="Madonna" target="Queen" weight="34" />
+      <edge id="617" source="Madonna" target="Eminem" weight="37" />
+      <edge id="618" source="Madonna" target="Leona Lewis" weight="25" />
+      <edge id="619" source="Madonna" target="Oasis" weight="28" />
+      <edge id="620" source="Madonna" target="blink-182" weight="22" />
+      <edge id="621" source="Madonna" target="Nirvana" weight="33" />
+      <edge id="622" source="Madonna" target="The Pretty Reckless" weight="23" />
+      <edge id="623" source="Madonna" target="Guns N' Roses" weight="25" />
+      <edge id="624" source="Madonna" target="The White Stripes" weight="28" />
+      <edge id="625" source="Madonna" target="Metallica" weight="29" />
+      <edge id="626" source="Madonna" target="The Smashing Pumpkins" weight="25" />
+      <edge id="627" source="Led Zeppelin" target="The Cure" weight="22" />
+      <edge id="628" source="Led Zeppelin" target="Michael Jackson" weight="21" />
+      <edge id="629" source="Led Zeppelin" target="Duran Duran" weight="21" />
+      <edge id="630" source="Led Zeppelin" target="David Bowie" weight="29" />
+      <edge id="631" source="Led Zeppelin" target="The Beatles" weight="35" />
+      <edge id="632" source="Led Zeppelin" target="Pink Floyd" weight="28" />
+      <edge id="633" source="Led Zeppelin" target="Queen" weight="24" />
+      <edge id="634" source="Led Zeppelin" target="The Rolling Stones" weight="27" />
+      <edge id="635" source="Led Zeppelin" target="Nirvana" weight="23" />
+      <edge id="636" source="Led Zeppelin" target="The Doors" weight="24" />
+      <edge id="637" source="The Cure" target="Michael Jackson" weight="28" />
+      <edge id="638" source="The Cure" target="Florence + the Machine" weight="23" />
+      <edge id="639" source="The Cure" target="Blur" weight="30" />
+      <edge id="640" source="The Cure" target="Sigur Rós" weight="22" />
+      <edge id="641" source="The Cure" target="Alanis Morissette" weight="24" />
+      <edge id="642" source="The Cure" target="Kylie Minogue" weight="28" />
+      <edge id="643" source="The Cure" target="Duran Duran" weight="48" />
+      <edge id="644" source="The Cure" target="Placebo" weight="36" />
+      <edge id="645" source="The Cure" target="Keane" weight="28" />
+      <edge id="646" source="The Cure" target="Arctic Monkeys" weight="31" />
+      <edge id="647" source="The Cure" target="The Killers" weight="34" />
+      <edge id="648" source="The Cure" target="Green Day" weight="25" />
+      <edge id="649" source="The Cure" target="Death Cab for Cutie" weight="26" />
+      <edge id="650" source="The Cure" target="David Bowie" weight="42" />
+      <edge id="651" source="The Cure" target="The Beatles" weight="43" />
+      <edge id="652" source="The Cure" target="Evanescence" weight="27" />
+      <edge id="653" source="The Cure" target="Lady Gaga" weight="27" />
+      <edge id="654" source="The Cure" target="Nine Inch Nails" weight="23" />
+      <edge id="655" source="The Cure" target="New Order" weight="37" />
+      <edge id="656" source="The Cure" target="Britney Spears" weight="23" />
+      <edge id="657" source="The Cure" target="Christina Aguilera" weight="24" />
+      <edge id="658" source="The Cure" target="30 Seconds to Mars" weight="22" />
+      <edge id="659" source="The Cure" target="Joy Division" weight="35" />
+      <edge id="660" source="The Cure" target="U2" weight="41" />
+      <edge id="661" source="The Cure" target="Avril Lavigne" weight="30" />
+      <edge id="662" source="The Cure" target="Pink Floyd" weight="27" />
+      <edge id="663" source="The Cure" target="The Smashing Pumpkins" weight="24" />
+      <edge id="664" source="The Cure" target="The Smiths" weight="32" />
+      <edge id="665" source="The Cure" target="Paramore" weight="29" />
+      <edge id="666" source="The Cure" target="Queen" weight="24" />
+      <edge id="667" source="The Cure" target="Oasis" weight="26" />
+      <edge id="668" source="The Cure" target="Nirvana" weight="23" />
+      <edge id="669" source="The Cure" target="Interpol" weight="21" />
+      <edge id="670" source="The Cure" target="The White Stripes" weight="22" />
+      <edge id="671" source="Michael Jackson" target="Alicia Keys" weight="30" />
+      <edge id="672" source="Michael Jackson" target="Timbaland" weight="24" />
+      <edge id="673" source="Michael Jackson" target="Black Eyed Peas" weight="33" />
+      <edge id="674" source="Michael Jackson" target="Gwen Stefani" weight="28" />
+      <edge id="675" source="Michael Jackson" target="Blur" weight="21" />
+      <edge id="676" source="Michael Jackson" target="Alanis Morissette" weight="28" />
+      <edge id="677" source="Michael Jackson" target="Maroon 5" weight="26" />
+      <edge id="678" source="Michael Jackson" target="Shakira" weight="41" />
+      <edge id="679" source="Michael Jackson" target="Kylie Minogue" weight="47" />
+      <edge id="680" source="Michael Jackson" target="Daft Punk" weight="26" />
+      <edge id="681" source="Michael Jackson" target="Duran Duran" weight="41" />
+      <edge id="682" source="Michael Jackson" target="Placebo" weight="28" />
+      <edge id="683" source="Michael Jackson" target="Keane" weight="25" />
+      <edge id="684" source="Michael Jackson" target="Arctic Monkeys" weight="21" />
+      <edge id="685" source="Michael Jackson" target="The Killers" weight="31" />
+      <edge id="686" source="Michael Jackson" target="Green Day" weight="24" />
+      <edge id="687" source="Michael Jackson" target="Beyoncé" weight="46" />
+      <edge id="688" source="Michael Jackson" target="Death Cab for Cutie" weight="25" />
+      <edge id="689" source="Michael Jackson" target="David Bowie" weight="36" />
+      <edge id="690" source="Michael Jackson" target="The Beatles" weight="51" />
+      <edge id="691" source="Michael Jackson" target="Evanescence" weight="28" />
+      <edge id="692" source="Michael Jackson" target="Lily Allen" weight="26" />
+      <edge id="693" source="Michael Jackson" target="Lady Gaga" weight="48" />
+      <edge id="694" source="Michael Jackson" target="t.A.T.u." weight="36" />
+      <edge id="695" source="Michael Jackson" target="Ashlee Simpson" weight="42" />
+      <edge id="696" source="Michael Jackson" target="Britney Spears" weight="62" />
+      <edge id="697" source="Michael Jackson" target="Rihanna" weight="45" />
+      <edge id="698" source="Michael Jackson" target="Christina Aguilera" weight="54" />
+      <edge id="699" source="Michael Jackson" target="Katy Perry" weight="39" />
+      <edge id="700" source="Michael Jackson" target="Linkin Park" weight="21" />
+      <edge id="701" source="Michael Jackson" target="Hilary Duff" weight="26" />
+      <edge id="702" source="Michael Jackson" target="Miley Cyrus" weight="27" />
+      <edge id="703" source="Michael Jackson" target="Enrique Iglesias" weight="23" />
+      <edge id="704" source="Michael Jackson" target="Glee Cast" weight="24" />
+      <edge id="705" source="Michael Jackson" target="Justin Timberlake" weight="32" />
+      <edge id="706" source="Michael Jackson" target="U2" weight="30" />
+      <edge id="707" source="Michael Jackson" target="Jennifer Lopez" weight="30" />
+      <edge id="708" source="Michael Jackson" target="The Pussycat Dolls" weight="22" />
+      <edge id="709" source="Michael Jackson" target="Kelly Clarkson" weight="33" />
+      <edge id="710" source="Michael Jackson" target="Avril Lavigne" weight="45" />
+      <edge id="711" source="Michael Jackson" target="Lindsay Lohan" weight="29" />
+      <edge id="712" source="Michael Jackson" target="P!nk" weight="33" />
+      <edge id="713" source="Michael Jackson" target="Mariah Carey" weight="45" />
+      <edge id="714" source="Michael Jackson" target="Paramore" weight="31" />
+      <edge id="715" source="Michael Jackson" target="Taylor Swift" weight="31" />
+      <edge id="716" source="Michael Jackson" target="Queen" weight="41" />
+      <edge id="717" source="Michael Jackson" target="Eminem" weight="33" />
+      <edge id="718" source="Michael Jackson" target="Oasis" weight="21" />
+      <edge id="719" source="Michael Jackson" target="The Rolling Stones" weight="27" />
+      <edge id="720" source="Michael Jackson" target="Nirvana" weight="28" />
+      <edge id="721" source="Michael Jackson" target="Nine Inch Nails" weight="26" />
+      <edge id="722" source="Michael Jackson" target="Pink Floyd" weight="22" />
+      <edge id="723" source="Michael Jackson" target="Guns N' Roses" weight="24" />
+      <edge id="724" source="Michael Jackson" target="Metallica" weight="22" />
+      <edge id="725" source="Michael Jackson" target="30 Seconds to Mars" weight="23" />
+      <edge id="726" source="Michael Jackson" target="Kanye West" weight="27" />
+      <edge id="727" source="Florence + the Machine" target="Sigur Rós" weight="21" />
+      <edge id="728" source="Florence + the Machine" target="Shakira" weight="25" />
+      <edge id="729" source="Florence + the Machine" target="Kylie Minogue" weight="21" />
+      <edge id="730" source="Florence + the Machine" target="Duran Duran" weight="25" />
+      <edge id="731" source="Florence + the Machine" target="Placebo" weight="22" />
+      <edge id="732" source="Florence + the Machine" target="Keane" weight="24" />
+      <edge id="733" source="Florence + the Machine" target="Arctic Monkeys" weight="21" />
+      <edge id="734" source="Florence + the Machine" target="The Killers" weight="28" />
+      <edge id="735" source="Florence + the Machine" target="David Bowie" weight="25" />
+      <edge id="736" source="Florence + the Machine" target="The Beatles" weight="31" />
+      <edge id="737" source="Florence + the Machine" target="MGMT" weight="27" />
+      <edge id="738" source="Florence + the Machine" target="Lily Allen" weight="23" />
+      <edge id="739" source="Florence + the Machine" target="Lady Gaga" weight="26" />
+      <edge id="740" source="Florence + the Machine" target="Britney Spears" weight="26" />
+      <edge id="741" source="Florence + the Machine" target="Christina Aguilera" weight="28" />
+      <edge id="742" source="Florence + the Machine" target="Katy Perry" weight="25" />
+      <edge id="743" source="Florence + the Machine" target="Hilary Duff" weight="22" />
+      <edge id="744" source="Florence + the Machine" target="Avril Lavigne" weight="27" />
+      <edge id="745" source="Florence + the Machine" target="Pink Floyd" weight="21" />
+      <edge id="746" source="Florence + the Machine" target="Paramore" weight="27" />
+      <edge id="747" source="Snow Patrol" target="Maroon 5" weight="21" />
+      <edge id="748" source="Snow Patrol" target="Duran Duran" weight="21" />
+      <edge id="749" source="Snow Patrol" target="Placebo" weight="24" />
+      <edge id="750" source="Snow Patrol" target="Keane" weight="24" />
+      <edge id="751" source="Snow Patrol" target="Arctic Monkeys" weight="23" />
+      <edge id="752" source="Snow Patrol" target="The Killers" weight="24" />
+      <edge id="753" source="Snow Patrol" target="Death Cab for Cutie" weight="23" />
+      <edge id="754" source="Snow Patrol" target="The Beatles" weight="25" />
+      <edge id="755" source="Snow Patrol" target="U2" weight="23" />
+      <edge id="756" source="Snow Patrol" target="Avril Lavigne" weight="24" />
+      <edge id="757" source="Blur" target="Alanis Morissette" weight="22" />
+      <edge id="758" source="Blur" target="Duran Duran" weight="26" />
+      <edge id="759" source="Blur" target="Placebo" weight="27" />
+      <edge id="760" source="Blur" target="Keane" weight="26" />
+      <edge id="761" source="Blur" target="Arctic Monkeys" weight="25" />
+      <edge id="762" source="Blur" target="The Killers" weight="29" />
+      <edge id="763" source="Blur" target="Death Cab for Cutie" weight="21" />
+      <edge id="764" source="Blur" target="David Bowie" weight="30" />
+      <edge id="765" source="Blur" target="The Beatles" weight="38" />
+      <edge id="766" source="Blur" target="MGMT" weight="26" />
+      <edge id="767" source="Blur" target="Christina Aguilera" weight="23" />
+      <edge id="768" source="Blur" target="U2" weight="28" />
+      <edge id="769" source="Blur" target="Oasis" weight="24" />
+      <edge id="770" source="Blur" target="Nirvana" weight="21" />
+      <edge id="771" source="Blur" target="Pink Floyd" weight="22" />
+      <edge id="772" source="Sigur Rós" target="Duran Duran" weight="27" />
+      <edge id="773" source="Sigur Rós" target="Placebo" weight="25" />
+      <edge id="774" source="Sigur Rós" target="Keane" weight="24" />
+      <edge id="775" source="Sigur Rós" target="Arctic Monkeys" weight="21" />
+      <edge id="776" source="Sigur Rós" target="The Killers" weight="24" />
+      <edge id="777" source="Sigur Rós" target="Death Cab for Cutie" weight="22" />
+      <edge id="778" source="Sigur Rós" target="David Bowie" weight="30" />
+      <edge id="779" source="Sigur Rós" target="The Beatles" weight="26" />
+      <edge id="780" source="Sigur Rós" target="MGMT" weight="27" />
+      <edge id="781" source="Sigur Rós" target="Nine Inch Nails" weight="22" />
+      <edge id="782" source="Sigur Rós" target="Pink Floyd" weight="31" />
+      <edge id="783" source="Sigur Rós" target="The Smashing Pumpkins" weight="21" />
+      <edge id="784" source="Alanis Morissette" target="Alicia Keys" weight="25" />
+      <edge id="785" source="Alanis Morissette" target="Gwen Stefani" weight="23" />
+      <edge id="786" source="Alanis Morissette" target="Maroon 5" weight="25" />
+      <edge id="787" source="Alanis Morissette" target="Shakira" weight="29" />
+      <edge id="788" source="Alanis Morissette" target="Kylie Minogue" weight="25" />
+      <edge id="789" source="Alanis Morissette" target="Duran Duran" weight="26" />
+      <edge id="790" source="Alanis Morissette" target="Placebo" weight="23" />
+      <edge id="791" source="Alanis Morissette" target="Keane" weight="21" />
+      <edge id="792" source="Alanis Morissette" target="The Killers" weight="26" />
+      <edge id="793" source="Alanis Morissette" target="Green Day" weight="21" />
+      <edge id="794" source="Alanis Morissette" target="Beyoncé" weight="26" />
+      <edge id="795" source="Alanis Morissette" target="Death Cab for Cutie" weight="24" />
+      <edge id="796" source="Alanis Morissette" target="David Bowie" weight="22" />
+      <edge id="797" source="Alanis Morissette" target="The Beatles" weight="36" />
+      <edge id="798" source="Alanis Morissette" target="Evanescence" weight="30" />
+      <edge id="799" source="Alanis Morissette" target="Lily Allen" weight="23" />
+      <edge id="800" source="Alanis Morissette" target="Lady Gaga" weight="26" />
+      <edge id="801" source="Alanis Morissette" target="Britney Spears" weight="30" />
+      <edge id="802" source="Alanis Morissette" target="Christina Aguilera" weight="34" />
+      <edge id="803" source="Alanis Morissette" target="Katy Perry" weight="28" />
+      <edge id="804" source="Alanis Morissette" target="Miley Cyrus" weight="21" />
+      <edge id="805" source="Alanis Morissette" target="U2" weight="26" />
+      <edge id="806" source="Alanis Morissette" target="Kelly Clarkson" weight="31" />
+      <edge id="807" source="Alanis Morissette" target="Avril Lavigne" weight="37" />
+      <edge id="808" source="Alanis Morissette" target="P!nk" weight="24" />
+      <edge id="809" source="Alanis Morissette" target="Mariah Carey" weight="23" />
+      <edge id="810" source="Alanis Morissette" target="Paramore" weight="26" />
+      <edge id="811" source="Alanis Morissette" target="Taylor Swift" weight="27" />
+      <edge id="812" source="Alanis Morissette" target="Oasis" weight="22" />
+      <edge id="813" source="Maroon 5" target="Black Eyed Peas" weight="21" />
+      <edge id="814" source="Maroon 5" target="Gwen Stefani" weight="22" />
+      <edge id="815" source="Maroon 5" target="Shakira" weight="29" />
+      <edge id="816" source="Maroon 5" target="Kylie Minogue" weight="25" />
+      <edge id="817" source="Maroon 5" target="Duran Duran" weight="26" />
+      <edge id="818" source="Maroon 5" target="Placebo" weight="21" />
+      <edge id="819" source="Maroon 5" target="Keane" weight="28" />
+      <edge id="820" source="Maroon 5" target="The Killers" weight="30" />
+      <edge id="821" source="Maroon 5" target="Green Day" weight="23" />
+      <edge id="822" source="Maroon 5" target="Beyoncé" weight="23" />
+      <edge id="823" source="Maroon 5" target="Death Cab for Cutie" weight="27" />
+      <edge id="824" source="Maroon 5" target="David Bowie" weight="23" />
+      <edge id="825" source="Maroon 5" target="The Beatles" weight="30" />
+      <edge id="826" source="Maroon 5" target="MGMT" weight="22" />
+      <edge id="827" source="Maroon 5" target="Evanescence" weight="24" />
+      <edge id="828" source="Maroon 5" target="Lady Gaga" weight="32" />
+      <edge id="829" source="Maroon 5" target="Ashlee Simpson" weight="23" />
+      <edge id="830" source="Maroon 5" target="Britney Spears" weight="33" />
+      <edge id="831" source="Maroon 5" target="Rihanna" weight="28" />
+      <edge id="832" source="Maroon 5" target="Christina Aguilera" weight="37" />
+      <edge id="833" source="Maroon 5" target="30 Seconds to Mars" weight="21" />
+      <edge id="834" source="Maroon 5" target="Katy Perry" weight="28" />
+      <edge id="835" source="Maroon 5" target="Linkin Park" weight="21" />
+      <edge id="836" source="Maroon 5" target="Hilary Duff" weight="22" />
+      <edge id="837" source="Maroon 5" target="Miley Cyrus" weight="21" />
+      <edge id="838" source="Maroon 5" target="Demi Lovato" weight="27" />
+      <edge id="839" source="Maroon 5" target="U2" weight="23" />
+      <edge id="840" source="Maroon 5" target="Kelly Clarkson" weight="29" />
+      <edge id="841" source="Maroon 5" target="Avril Lavigne" weight="32" />
+      <edge id="842" source="Maroon 5" target="Lindsay Lohan" weight="21" />
+      <edge id="843" source="Maroon 5" target="Panic! At the Disco" weight="24" />
+      <edge id="844" source="Maroon 5" target="Mariah Carey" weight="21" />
+      <edge id="845" source="Maroon 5" target="Paramore" weight="28" />
+      <edge id="846" source="Maroon 5" target="Taylor Swift" weight="23" />
+      <edge id="847" source="Shakira" target="Alicia Keys" weight="25" />
+      <edge id="848" source="Shakira" target="Black Eyed Peas" weight="30" />
+      <edge id="849" source="Shakira" target="Gwen Stefani" weight="33" />
+      <edge id="850" source="Shakira" target="Kylie Minogue" weight="46" />
+      <edge id="851" source="Shakira" target="Duran Duran" weight="31" />
+      <edge id="852" source="Shakira" target="Placebo" weight="23" />
+      <edge id="853" source="Shakira" target="Keane" weight="22" />
+      <edge id="854" source="Shakira" target="The Killers" weight="26" />
+      <edge id="855" source="Shakira" target="Beyoncé" weight="41" />
+      <edge id="856" source="Shakira" target="Ciara" weight="21" />
+      <edge id="857" source="Shakira" target="Death Cab for Cutie" weight="25" />
+      <edge id="858" source="Shakira" target="David Bowie" weight="25" />
+      <edge id="859" source="Shakira" target="The Beatles" weight="33" />
+      <edge id="860" source="Shakira" target="MGMT" weight="22" />
+      <edge id="861" source="Shakira" target="Evanescence" weight="28" />
+      <edge id="862" source="Shakira" target="Lily Allen" weight="28" />
+      <edge id="863" source="Shakira" target="Lady Gaga" weight="43" />
+      <edge id="864" source="Shakira" target="Nine Inch Nails" weight="21" />
+      <edge id="865" source="Shakira" target="3OH!3" weight="21" />
+      <edge id="866" source="Shakira" target="Ke$ha" weight="23" />
+      <edge id="867" source="Shakira" target="Ashlee Simpson" weight="31" />
+      <edge id="868" source="Shakira" target="Britney Spears" weight="58" />
+      <edge id="869" source="Shakira" target="Rihanna" weight="47" />
+      <edge id="870" source="Shakira" target="Christina Aguilera" weight="63" />
+      <edge id="871" source="Shakira" target="30 Seconds to Mars" weight="21" />
+      <edge id="872" source="Shakira" target="Katy Perry" weight="45" />
+      <edge id="873" source="Shakira" target="Pixie Lott" weight="21" />
+      <edge id="874" source="Shakira" target="Hilary Duff" weight="35" />
+      <edge id="875" source="Shakira" target="Miley Cyrus" weight="34" />
+      <edge id="876" source="Shakira" target="Enrique Iglesias" weight="24" />
+      <edge id="877" source="Shakira" target="Demi Lovato" weight="26" />
+      <edge id="878" source="Shakira" target="Selena Gomez &amp; the Scene" weight="24" />
+      <edge id="879" source="Shakira" target="Justin Timberlake" weight="21" />
+      <edge id="880" source="Shakira" target="U2" weight="22" />
+      <edge id="881" source="Shakira" target="Jennifer Lopez" weight="28" />
+      <edge id="882" source="Shakira" target="The Pussycat Dolls" weight="21" />
+      <edge id="883" source="Shakira" target="Kelly Clarkson" weight="37" />
+      <edge id="884" source="Shakira" target="Avril Lavigne" weight="44" />
+      <edge id="885" source="Shakira" target="Pink Floyd" weight="21" />
+      <edge id="886" source="Shakira" target="Ashley Tisdale" weight="24" />
+      <edge id="887" source="Shakira" target="Lindsay Lohan" weight="26" />
+      <edge id="888" source="Shakira" target="P!nk" weight="29" />
+      <edge id="889" source="Shakira" target="Mariah Carey" weight="38" />
+      <edge id="890" source="Shakira" target="Paramore" weight="31" />
+      <edge id="891" source="Shakira" target="Taylor Swift" weight="40" />
+      <edge id="892" source="Shakira" target="Queen" weight="21" />
+      <edge id="893" source="Shakira" target="Eminem" weight="25" />
+      <edge id="894" source="Kylie Minogue" target="Alicia Keys" weight="26" />
+      <edge id="895" source="Kylie Minogue" target="Crystal Castles" weight="22" />
+      <edge id="896" source="Kylie Minogue" target="Black Eyed Peas" weight="38" />
+      <edge id="897" source="Kylie Minogue" target="Gwen Stefani" weight="35" />
+      <edge id="898" source="Kylie Minogue" target="Daft Punk" weight="30" />
+      <edge id="899" source="Kylie Minogue" target="Duran Duran" weight="42" />
+      <edge id="900" source="Kylie Minogue" target="Placebo" weight="31" />
+      <edge id="901" source="Kylie Minogue" target="Keane" weight="22" />
+      <edge id="902" source="Kylie Minogue" target="The Killers" weight="34" />
+      <edge id="903" source="Kylie Minogue" target="Beyoncé" weight="48" />
+      <edge id="904" source="Kylie Minogue" target="Ciara" weight="23" />
+      <edge id="905" source="Kylie Minogue" target="Death Cab for Cutie" weight="23" />
+      <edge id="906" source="Kylie Minogue" target="David Bowie" weight="35" />
+      <edge id="907" source="Kylie Minogue" target="The Beatles" weight="32" />
+      <edge id="908" source="Kylie Minogue" target="MGMT" weight="25" />
+      <edge id="909" source="Kylie Minogue" target="Evanescence" weight="25" />
+      <edge id="910" source="Kylie Minogue" target="Lily Allen" weight="33" />
+      <edge id="911" source="Kylie Minogue" target="Lady Gaga" weight="61" />
+      <edge id="912" source="Kylie Minogue" target="Nine Inch Nails" weight="26" />
+      <edge id="913" source="Kylie Minogue" target="3OH!3" weight="26" />
+      <edge id="914" source="Kylie Minogue" target="Ke$ha" weight="27" />
+      <edge id="915" source="Kylie Minogue" target="t.A.T.u." weight="26" />
+      <edge id="916" source="Kylie Minogue" target="Ashlee Simpson" weight="34" />
+      <edge id="917" source="Kylie Minogue" target="New Order" weight="25" />
+      <edge id="918" source="Kylie Minogue" target="Britney Spears" weight="74" />
+      <edge id="919" source="Kylie Minogue" target="Rihanna" weight="51" />
+      <edge id="920" source="Kylie Minogue" target="Christina Aguilera" weight="73" />
+      <edge id="921" source="Kylie Minogue" target="David Guetta" weight="24" />
+      <edge id="922" source="Kylie Minogue" target="The Veronicas" weight="21" />
+      <edge id="923" source="Kylie Minogue" target="Katy Perry" weight="48" />
+      <edge id="924" source="Kylie Minogue" target="Kanye West" weight="24" />
+      <edge id="925" source="Kylie Minogue" target="Pixie Lott" weight="23" />
+      <edge id="926" source="Kylie Minogue" target="Hilary Duff" weight="35" />
+      <edge id="927" source="Kylie Minogue" target="Miley Cyrus" weight="33" />
+      <edge id="928" source="Kylie Minogue" target="Demi Lovato" weight="24" />
+      <edge id="929" source="Kylie Minogue" target="Justin Timberlake" weight="22" />
+      <edge id="930" source="Kylie Minogue" target="U2" weight="25" />
+      <edge id="931" source="Kylie Minogue" target="Jennifer Lopez" weight="30" />
+      <edge id="932" source="Kylie Minogue" target="The Pussycat Dolls" weight="24" />
+      <edge id="933" source="Kylie Minogue" target="Kelly Clarkson" weight="40" />
+      <edge id="934" source="Kylie Minogue" target="Avril Lavigne" weight="42" />
+      <edge id="935" source="Kylie Minogue" target="Pink Floyd" weight="23" />
+      <edge id="936" source="Kylie Minogue" target="Ashley Tisdale" weight="27" />
+      <edge id="937" source="Kylie Minogue" target="Lindsay Lohan" weight="28" />
+      <edge id="938" source="Kylie Minogue" target="Nicole Scherzinger" weight="24" />
+      <edge id="939" source="Kylie Minogue" target="P!nk" weight="31" />
+      <edge id="940" source="Kylie Minogue" target="Mariah Carey" weight="45" />
+      <edge id="941" source="Kylie Minogue" target="Paramore" weight="30" />
+      <edge id="942" source="Kylie Minogue" target="Taylor Swift" weight="29" />
+      <edge id="943" source="Kylie Minogue" target="Queen" weight="28" />
+      <edge id="944" source="Kylie Minogue" target="Eminem" weight="31" />
+      <edge id="945" source="Kylie Minogue" target="Leona Lewis" weight="23" />
+      <edge id="946" source="Kylie Minogue" target="Nirvana" weight="22" />
+      <edge id="947" source="Duran Duran" target="Daft Punk" weight="27" />
+      <edge id="948" source="Duran Duran" target="Placebo" weight="40" />
+      <edge id="949" source="Duran Duran" target="Keane" weight="29" />
+      <edge id="950" source="Duran Duran" target="Arctic Monkeys" weight="28" />
+      <edge id="951" source="Duran Duran" target="The Killers" weight="40" />
+      <edge id="952" source="Duran Duran" target="Green Day" weight="23" />
+      <edge id="953" source="Duran Duran" target="Foo Fighters" weight="24" />
+      <edge id="954" source="Duran Duran" target="Beyoncé" weight="26" />
+      <edge id="955" source="Duran Duran" target="Death Cab for Cutie" weight="31" />
+      <edge id="956" source="Duran Duran" target="David Bowie" weight="51" />
+      <edge id="957" source="Duran Duran" target="The Beatles" weight="50" />
+      <edge id="958" source="Duran Duran" target="MGMT" weight="28" />
+      <edge id="959" source="Duran Duran" target="Evanescence" weight="30" />
+      <edge id="960" source="Duran Duran" target="Lily Allen" weight="22" />
+      <edge id="961" source="Duran Duran" target="Lady Gaga" weight="41" />
+      <edge id="962" source="Duran Duran" target="Nine Inch Nails" weight="28" />
+      <edge id="963" source="Duran Duran" target="Ashlee Simpson" weight="22" />
+      <edge id="964" source="Duran Duran" target="New Order" weight="52" />
+      <edge id="965" source="Duran Duran" target="Britney Spears" weight="39" />
+      <edge id="966" source="Duran Duran" target="The Strokes" weight="21" />
+      <edge id="967" source="Duran Duran" target="Rihanna" weight="29" />
+      <edge id="968" source="Duran Duran" target="Christina Aguilera" weight="44" />
+      <edge id="969" source="Duran Duran" target="30 Seconds to Mars" weight="22" />
+      <edge id="970" source="Duran Duran" target="Katy Perry" weight="31" />
+      <edge id="971" source="Duran Duran" target="Linkin Park" weight="23" />
+      <edge id="972" source="Duran Duran" target="Hilary Duff" weight="24" />
+      <edge id="973" source="Duran Duran" target="Miley Cyrus" weight="22" />
+      <edge id="974" source="Duran Duran" target="Joy Division" weight="33" />
+      <edge id="975" source="Duran Duran" target="Franz Ferdinand" weight="29" />
+      <edge id="976" source="Duran Duran" target="U2" weight="51" />
+      <edge id="977" source="Duran Duran" target="Kelly Clarkson" weight="24" />
+      <edge id="978" source="Duran Duran" target="Avril Lavigne" weight="37" />
+      <edge id="979" source="Duran Duran" target="Pink Floyd" weight="35" />
+      <edge id="980" source="Duran Duran" target="Guns N' Roses" weight="29" />
+      <edge id="981" source="Duran Duran" target="The Smashing Pumpkins" weight="24" />
+      <edge id="982" source="Duran Duran" target="The Smiths" weight="34" />
+      <edge id="983" source="Duran Duran" target="P!nk" weight="21" />
+      <edge id="984" source="Duran Duran" target="Mariah Carey" weight="29" />
+      <edge id="985" source="Duran Duran" target="Paramore" weight="33" />
+      <edge id="986" source="Duran Duran" target="Queen" weight="27" />
+      <edge id="987" source="Duran Duran" target="Oasis" weight="31" />
+      <edge id="988" source="Duran Duran" target="Nirvana" weight="26" />
+      <edge id="989" source="Duran Duran" target="Interpol" weight="24" />
+      <edge id="990" source="Duran Duran" target="The White Stripes" weight="28" />
+      <edge id="991" source="Placebo" target="Gwen Stefani" weight="21" />
+      <edge id="992" source="Placebo" target="Keane" weight="36" />
+      <edge id="993" source="Placebo" target="Arctic Monkeys" weight="33" />
+      <edge id="994" source="Placebo" target="The Killers" weight="42" />
+      <edge id="995" source="Placebo" target="Green Day" weight="21" />
+      <edge id="996" source="Placebo" target="Foo Fighters" weight="23" />
+      <edge id="997" source="Placebo" target="Beyoncé" weight="23" />
+      <edge id="998" source="Placebo" target="Death Cab for Cutie" weight="33" />
+      <edge id="999" source="Placebo" target="Queens of the Stone Age" weight="21" />
+      <edge id="1000" source="Placebo" target="David Bowie" weight="36" />
+      <edge id="1001" source="Placebo" target="The Beatles" weight="41" />
+      <edge id="1002" source="Placebo" target="MGMT" weight="26" />
+      <edge id="1003" source="Placebo" target="Evanescence" weight="32" />
+      <edge id="1004" source="Placebo" target="Lily Allen" weight="26" />
+      <edge id="1005" source="Placebo" target="Lady Gaga" weight="33" />
+      <edge id="1006" source="Placebo" target="Nine Inch Nails" weight="26" />
+      <edge id="1007" source="Placebo" target="New Order" weight="23" />
+      <edge id="1008" source="Placebo" target="Britney Spears" weight="33" />
+      <edge id="1009" source="Placebo" target="Rihanna" weight="22" />
+      <edge id="1010" source="Placebo" target="Christina Aguilera" weight="29" />
+      <edge id="1011" source="Placebo" target="30 Seconds to Mars" weight="30" />
+      <edge id="1012" source="Placebo" target="Linkin Park" weight="24" />
+      <edge id="1013" source="Placebo" target="Franz Ferdinand" weight="23" />
+      <edge id="1014" source="Placebo" target="U2" weight="37" />
+      <edge id="1015" source="Placebo" target="Kelly Clarkson" weight="24" />
+      <edge id="1016" source="Placebo" target="Avril Lavigne" weight="30" />
+      <edge id="1017" source="Placebo" target="Pink Floyd" weight="24" />
+      <edge id="1018" source="Placebo" target="The Smashing Pumpkins" weight="28" />
+      <edge id="1019" source="Placebo" target="The Smiths" weight="23" />
+      <edge id="1020" source="Placebo" target="Mariah Carey" weight="22" />
+      <edge id="1021" source="Placebo" target="Paramore" weight="32" />
+      <edge id="1022" source="Placebo" target="Queen" weight="23" />
+      <edge id="1023" source="Placebo" target="The Kooks" weight="23" />
+      <edge id="1024" source="Placebo" target="Oasis" weight="32" />
+      <edge id="1025" source="Placebo" target="Nirvana" weight="25" />
+      <edge id="1026" source="Placebo" target="Interpol" weight="25" />
+      <edge id="1027" source="Placebo" target="The White Stripes" weight="23" />
+      <edge id="1028" source="Keane" target="Arctic Monkeys" weight="29" />
+      <edge id="1029" source="Keane" target="Kings of Leon" weight="22" />
+      <edge id="1030" source="Keane" target="The Killers" weight="39" />
+      <edge id="1031" source="Keane" target="Green Day" weight="21" />
+      <edge id="1032" source="Keane" target="Death Cab for Cutie" weight="31" />
+      <edge id="1033" source="Keane" target="David Bowie" weight="28" />
+      <edge id="1034" source="Keane" target="The Beatles" weight="42" />
+      <edge id="1035" source="Keane" target="MGMT" weight="32" />
+      <edge id="1036" source="Keane" target="Evanescence" weight="28" />
+      <edge id="1037" source="Keane" target="Lily Allen" weight="22" />
+      <edge id="1038" source="Keane" target="U2" weight="30" />
+      <edge id="1039" source="Keane" target="Pink Floyd" weight="21" />
+      <edge id="1040" source="Keane" target="Lady Gaga" weight="28" />
+      <edge id="1041" source="Keane" target="Britney Spears" weight="30" />
+      <edge id="1042" source="Keane" target="Rihanna" weight="25" />
+      <edge id="1043" source="Keane" target="Christina Aguilera" weight="36" />
+      <edge id="1044" source="Keane" target="Katy Perry" weight="24" />
+      <edge id="1045" source="Keane" target="Kelly Clarkson" weight="22" />
+      <edge id="1046" source="Keane" target="Avril Lavigne" weight="31" />
+      <edge id="1047" source="Keane" target="Mariah Carey" weight="21" />
+      <edge id="1048" source="Keane" target="Paramore" weight="33" />
+      <edge id="1049" source="Keane" target="Taylor Swift" weight="21" />
+      <edge id="1050" source="Keane" target="Queen" weight="22" />
+      <edge id="1051" source="Keane" target="The Kooks" weight="21" />
+      <edge id="1052" source="Keane" target="Oasis" weight="26" />
+      <edge id="1053" source="Keane" target="30 Seconds to Mars" weight="23" />
+      <edge id="1054" source="Arctic Monkeys" target="Kings of Leon" weight="21" />
+      <edge id="1055" source="Arctic Monkeys" target="The Killers" weight="38" />
+      <edge id="1056" source="Arctic Monkeys" target="Death Cab for Cutie" weight="23" />
+      <edge id="1057" source="Arctic Monkeys" target="Queens of the Stone Age" weight="21" />
+      <edge id="1058" source="Arctic Monkeys" target="David Bowie" weight="25" />
+      <edge id="1059" source="Arctic Monkeys" target="The Beatles" weight="40" />
+      <edge id="1060" source="Arctic Monkeys" target="MGMT" weight="30" />
+      <edge id="1061" source="Arctic Monkeys" target="Nine Inch Nails" weight="21" />
+      <edge id="1062" source="Arctic Monkeys" target="U2" weight="24" />
+      <edge id="1063" source="Arctic Monkeys" target="The Smashing Pumpkins" weight="22" />
+      <edge id="1064" source="Arctic Monkeys" target="The White Stripes" weight="22" />
+      <edge id="1065" source="Arctic Monkeys" target="30 Seconds to Mars" weight="23" />
+      <edge id="1066" source="Arctic Monkeys" target="Paramore" weight="33" />
+      <edge id="1067" source="Arctic Monkeys" target="Lady Gaga" weight="23" />
+      <edge id="1068" source="Arctic Monkeys" target="The Strokes" weight="22" />
+      <edge id="1069" source="Arctic Monkeys" target="Christina Aguilera" weight="22" />
+      <edge id="1070" source="Arctic Monkeys" target="Franz Ferdinand" weight="27" />
+      <edge id="1071" source="Arctic Monkeys" target="Avril Lavigne" weight="27" />
+      <edge id="1072" source="Arctic Monkeys" target="Panic! At the Disco" weight="21" />
+      <edge id="1073" source="Arctic Monkeys" target="The Kooks" weight="28" />
+      <edge id="1074" source="Arctic Monkeys" target="Oasis" weight="23" />
+      <edge id="1075" source="Kings of Leon" target="The Killers" weight="30" />
+      <edge id="1076" source="Kings of Leon" target="Green Day" weight="22" />
+      <edge id="1077" source="Kings of Leon" target="Death Cab for Cutie" weight="23" />
+      <edge id="1078" source="Kings of Leon" target="The Beatles" weight="26" />
+      <edge id="1079" source="Kings of Leon" target="MGMT" weight="21" />
+      <edge id="1080" source="Kings of Leon" target="30 Seconds to Mars" weight="21" />
+      <edge id="1081" source="Kings of Leon" target="Avril Lavigne" weight="21" />
+      <edge id="1082" source="Kings of Leon" target="Paramore" weight="23" />
+      <edge id="1083" source="The Killers" target="Black Eyed Peas" weight="25" />
+      <edge id="1084" source="The Killers" target="Gwen Stefani" weight="24" />
+      <edge id="1085" source="The Killers" target="Green Day" weight="27" />
+      <edge id="1086" source="The Killers" target="Foo Fighters" weight="25" />
+      <edge id="1087" source="The Killers" target="Beyoncé" weight="26" />
+      <edge id="1088" source="The Killers" target="Death Cab for Cutie" weight="34" />
+      <edge id="1089" source="The Killers" target="Queens of the Stone Age" weight="23" />
+      <edge id="1090" source="The Killers" target="David Bowie" weight="33" />
+      <edge id="1091" source="The Killers" target="The Beatles" weight="41" />
+      <edge id="1092" source="The Killers" target="MGMT" weight="33" />
+      <edge id="1093" source="The Killers" target="Evanescence" weight="29" />
+      <edge id="1094" source="The Killers" target="Lily Allen" weight="27" />
+      <edge id="1095" source="The Killers" target="Lady Gaga" weight="40" />
+      <edge id="1096" source="The Killers" target="Nine Inch Nails" weight="30" />
+      <edge id="1097" source="The Killers" target="3OH!3" weight="21" />
+      <edge id="1098" source="The Killers" target="Ashlee Simpson" weight="24" />
+      <edge id="1099" source="The Killers" target="New Order" weight="27" />
+      <edge id="1100" source="The Killers" target="Britney Spears" weight="39" />
+      <edge id="1101" source="The Killers" target="The Strokes" weight="28" />
+      <edge id="1102" source="The Killers" target="Rihanna" weight="31" />
+      <edge id="1103" source="The Killers" target="Christina Aguilera" weight="41" />
+      <edge id="1104" source="The Killers" target="30 Seconds to Mars" weight="34" />
+      <edge id="1105" source="The Killers" target="Yeah Yeah Yeahs" weight="24" />
+      <edge id="1106" source="The Killers" target="Katy Perry" weight="33" />
+      <edge id="1107" source="The Killers" target="Linkin Park" weight="24" />
+      <edge id="1108" source="The Killers" target="Hilary Duff" weight="27" />
+      <edge id="1109" source="The Killers" target="Miley Cyrus" weight="24" />
+      <edge id="1110" source="The Killers" target="Franz Ferdinand" weight="24" />
+      <edge id="1111" source="The Killers" target="Demi Lovato" weight="24" />
+      <edge id="1112" source="The Killers" target="U2" weight="38" />
+      <edge id="1113" source="The Killers" target="Kelly Clarkson" weight="30" />
+      <edge id="1114" source="The Killers" target="Avril Lavigne" weight="34" />
+      <edge id="1115" source="The Killers" target="Pink Floyd" weight="22" />
+      <edge id="1116" source="The Killers" target="Lindsay Lohan" weight="22" />
+      <edge id="1117" source="The Killers" target="P!nk" weight="26" />
+      <edge id="1118" source="The Killers" target="Panic! At the Disco" weight="27" />
+      <edge id="1119" source="The Killers" target="Paramore" weight="42" />
+      <edge id="1120" source="The Killers" target="Taylor Swift" weight="24" />
+      <edge id="1121" source="The Killers" target="Queen" weight="29" />
+      <edge id="1122" source="The Killers" target="Eminem" weight="23" />
+      <edge id="1123" source="The Killers" target="The Kooks" weight="27" />
+      <edge id="1124" source="The Killers" target="Oasis" weight="31" />
+      <edge id="1125" source="The Killers" target="Nirvana" weight="27" />
+      <edge id="1126" source="The Killers" target="Fall Out Boy" weight="22" />
+      <edge id="1127" source="The Killers" target="The Smashing Pumpkins" weight="26" />
+      <edge id="1128" source="The Killers" target="Interpol" weight="25" />
+      <edge id="1129" source="The Killers" target="The White Stripes" weight="28" />
+      <edge id="1130" source="Green Day" target="Foo Fighters" weight="25" />
+      <edge id="1131" source="Green Day" target="Death Cab for Cutie" weight="28" />
+      <edge id="1132" source="Green Day" target="David Bowie" weight="21" />
+      <edge id="1133" source="Green Day" target="The Beatles" weight="33" />
+      <edge id="1134" source="Green Day" target="Evanescence" weight="22" />
+      <edge id="1135" source="Green Day" target="Lady Gaga" weight="22" />
+      <edge id="1136" source="Green Day" target="Ashlee Simpson" weight="22" />
+      <edge id="1137" source="Green Day" target="Britney Spears" weight="24" />
+      <edge id="1138" source="Green Day" target="Christina Aguilera" weight="24" />
+      <edge id="1139" source="Green Day" target="Linkin Park" weight="22" />
+      <edge id="1140" source="Green Day" target="U2" weight="24" />
+      <edge id="1141" source="Green Day" target="Kelly Clarkson" weight="25" />
+      <edge id="1142" source="Green Day" target="Avril Lavigne" weight="34" />
+      <edge id="1143" source="Green Day" target="P!nk" weight="21" />
+      <edge id="1144" source="Green Day" target="Panic! At the Disco" weight="25" />
+      <edge id="1145" source="Green Day" target="Paramore" weight="31" />
+      <edge id="1146" source="Green Day" target="My Chemical Romance" weight="21" />
+      <edge id="1147" source="Green Day" target="blink-182" weight="26" />
+      <edge id="1148" source="Green Day" target="Nirvana" weight="24" />
+      <edge id="1149" source="Green Day" target="30 Seconds to Mars" weight="23" />
+      <edge id="1150" source="Green Day" target="The White Stripes" weight="22" />
+      <edge id="1151" source="Foo Fighters" target="David Bowie" weight="21" />
+      <edge id="1152" source="Foo Fighters" target="The Beatles" weight="26" />
+      <edge id="1153" source="Foo Fighters" target="30 Seconds to Mars" weight="21" />
+      <edge id="1154" source="Foo Fighters" target="Paramore" weight="27" />
+      <edge id="1155" source="Foo Fighters" target="U2" weight="22" />
+      <edge id="1156" source="Foo Fighters" target="Avril Lavigne" weight="25" />
+      <edge id="1157" source="Foo Fighters" target="The Smashing Pumpkins" weight="27" />
+      <edge id="1158" source="Foo Fighters" target="Nirvana" weight="23" />
+      <edge id="1159" source="Death Cab for Cutie" target="David Bowie" weight="24" />
+      <edge id="1160" source="Death Cab for Cutie" target="The Beatles" weight="36" />
+      <edge id="1161" source="Death Cab for Cutie" target="MGMT" weight="22" />
+      <edge id="1162" source="Death Cab for Cutie" target="Evanescence" weight="27" />
+      <edge id="1163" source="Death Cab for Cutie" target="Lily Allen" weight="23" />
+      <edge id="1164" source="Death Cab for Cutie" target="Lady Gaga" weight="21" />
+      <edge id="1165" source="Death Cab for Cutie" target="Nine Inch Nails" weight="24" />
+      <edge id="1166" source="Death Cab for Cutie" target="Ashlee Simpson" weight="21" />
+      <edge id="1167" source="Death Cab for Cutie" target="New Order" weight="26" />
+      <edge id="1168" source="Death Cab for Cutie" target="Britney Spears" weight="24" />
+      <edge id="1169" source="Death Cab for Cutie" target="The Strokes" weight="22" />
+      <edge id="1170" source="Death Cab for Cutie" target="Rihanna" weight="21" />
+      <edge id="1171" source="Death Cab for Cutie" target="Christina Aguilera" weight="25" />
+      <edge id="1172" source="Death Cab for Cutie" target="30 Seconds to Mars" weight="24" />
+      <edge id="1173" source="Death Cab for Cutie" target="Linkin Park" weight="24" />
+      <edge id="1174" source="Death Cab for Cutie" target="Demi Lovato" weight="23" />
+      <edge id="1175" source="Death Cab for Cutie" target="U2" weight="33" />
+      <edge id="1176" source="Death Cab for Cutie" target="Kelly Clarkson" weight="24" />
+      <edge id="1177" source="Death Cab for Cutie" target="Avril Lavigne" weight="33" />
+      <edge id="1178" source="Death Cab for Cutie" target="The Smiths" weight="22" />
+      <edge id="1179" source="Death Cab for Cutie" target="Panic! At the Disco" weight="24" />
+      <edge id="1180" source="Death Cab for Cutie" target="Paramore" weight="27" />
+      <edge id="1181" source="Death Cab for Cutie" target="Oasis" weight="25" />
+      <edge id="1182" source="Death Cab for Cutie" target="Nirvana" weight="25" />
+      <edge id="1183" source="Death Cab for Cutie" target="Interpol" weight="27" />
+      <edge id="1184" source="Death Cab for Cutie" target="The White Stripes" weight="29" />
+      <edge id="1185" source="Death Cab for Cutie" target="The Smashing Pumpkins" weight="22" />
+      <edge id="1186" source="Queens of the Stone Age" target="David Bowie" weight="23" />
+      <edge id="1187" source="Queens of the Stone Age" target="The Beatles" weight="27" />
+      <edge id="1188" source="Queens of the Stone Age" target="MGMT" weight="21" />
+      <edge id="1189" source="Queens of the Stone Age" target="U2" weight="23" />
+      <edge id="1190" source="Queens of the Stone Age" target="The Smashing Pumpkins" weight="22" />
+      <edge id="1191" source="Queens of the Stone Age" target="Nirvana" weight="27" />
+      <edge id="1192" source="Queens of the Stone Age" target="The White Stripes" weight="25" />
+      <edge id="1193" source="David Bowie" target="Daft Punk" weight="26" />
+      <edge id="1194" source="David Bowie" target="Beyoncé" weight="29" />
+      <edge id="1195" source="David Bowie" target="The Beatles" weight="50" />
+      <edge id="1196" source="David Bowie" target="MGMT" weight="32" />
+      <edge id="1197" source="David Bowie" target="Evanescence" weight="26" />
+      <edge id="1198" source="David Bowie" target="Lady Gaga" weight="31" />
+      <edge id="1199" source="David Bowie" target="Nine Inch Nails" weight="30" />
+      <edge id="1200" source="David Bowie" target="New Order" weight="34" />
+      <edge id="1201" source="David Bowie" target="Britney Spears" weight="30" />
+      <edge id="1202" source="David Bowie" target="Christina Aguilera" weight="35" />
+      <edge id="1203" source="David Bowie" target="30 Seconds to Mars" weight="23" />
+      <edge id="1204" source="David Bowie" target="Katy Perry" weight="26" />
+      <edge id="1205" source="David Bowie" target="Hilary Duff" weight="21" />
+      <edge id="1206" source="David Bowie" target="Joy Division" weight="28" />
+      <edge id="1207" source="David Bowie" target="Franz Ferdinand" weight="22" />
+      <edge id="1208" source="David Bowie" target="Demi Lovato" weight="21" />
+      <edge id="1209" source="David Bowie" target="U2" weight="41" />
+      <edge id="1210" source="David Bowie" target="Kelly Clarkson" weight="23" />
+      <edge id="1211" source="David Bowie" target="Avril Lavigne" weight="29" />
+      <edge id="1212" source="David Bowie" target="Pink Floyd" weight="46" />
+      <edge id="1213" source="David Bowie" target="Guns N' Roses" weight="25" />
+      <edge id="1214" source="David Bowie" target="The Smashing Pumpkins" weight="28" />
+      <edge id="1215" source="David Bowie" target="The Smiths" weight="26" />
+      <edge id="1216" source="David Bowie" target="Mariah Carey" weight="21" />
+      <edge id="1217" source="David Bowie" target="Paramore" weight="26" />
+      <edge id="1218" source="David Bowie" target="Queen" weight="36" />
+      <edge id="1219" source="David Bowie" target="Eminem" weight="21" />
+      <edge id="1220" source="David Bowie" target="Oasis" weight="27" />
+      <edge id="1221" source="David Bowie" target="The Rolling Stones" weight="35" />
+      <edge id="1222" source="David Bowie" target="Nirvana" weight="25" />
+      <edge id="1223" source="David Bowie" target="The White Stripes" weight="28" />
+      <edge id="1224" source="David Bowie" target="Marilyn Manson" weight="21" />
+      <edge id="1225" source="David Bowie" target="The Doors" weight="22" />
+      <edge id="1226" source="The Beatles" target="Alicia Keys" weight="22" />
+      <edge id="1227" source="The Beatles" target="Gwen Stefani" weight="26" />
+      <edge id="1228" source="The Beatles" target="Daft Punk" weight="22" />
+      <edge id="1229" source="The Beatles" target="Bob Dylan" weight="29" />
+      <edge id="1230" source="The Beatles" target="Beyoncé" weight="22" />
+      <edge id="1231" source="The Beatles" target="MGMT" weight="42" />
+      <edge id="1232" source="The Beatles" target="Evanescence" weight="33" />
+      <edge id="1233" source="The Beatles" target="Lily Allen" weight="29" />
+      <edge id="1234" source="The Beatles" target="Nine Inch Nails" weight="28" />
+      <edge id="1235" source="The Beatles" target="Joy Division" weight="27" />
+      <edge id="1236" source="The Beatles" target="Pink Floyd" weight="45" />
+      <edge id="1237" source="The Beatles" target="Linkin Park" weight="24" />
+      <edge id="1238" source="The Beatles" target="U2" weight="48" />
+      <edge id="1239" source="The Beatles" target="Guns N' Roses" weight="22" />
+      <edge id="1240" source="The Beatles" target="The Smashing Pumpkins" weight="29" />
+      <edge id="1241" source="The Beatles" target="Lady Gaga" weight="36" />
+      <edge id="1242" source="The Beatles" target="Ashlee Simpson" weight="28" />
+      <edge id="1243" source="The Beatles" target="New Order" weight="25" />
+      <edge id="1244" source="The Beatles" target="Britney Spears" weight="38" />
+      <edge id="1245" source="The Beatles" target="Rihanna" weight="25" />
+      <edge id="1246" source="The Beatles" target="Christina Aguilera" weight="47" />
+      <edge id="1247" source="The Beatles" target="Katy Perry" weight="36" />
+      <edge id="1248" source="The Beatles" target="Hilary Duff" weight="25" />
+      <edge id="1249" source="The Beatles" target="Miley Cyrus" weight="26" />
+      <edge id="1250" source="The Beatles" target="Franz Ferdinand" weight="23" />
+      <edge id="1251" source="The Beatles" target="Demi Lovato" weight="27" />
+      <edge id="1252" source="The Beatles" target="Glee Cast" weight="21" />
+      <edge id="1253" source="The Beatles" target="Kelly Clarkson" weight="32" />
+      <edge id="1254" source="The Beatles" target="Avril Lavigne" weight="43" />
+      <edge id="1255" source="The Beatles" target="The Smiths" weight="30" />
+      <edge id="1256" source="The Beatles" target="P!nk" weight="25" />
+      <edge id="1257" source="The Beatles" target="Panic! At the Disco" weight="22" />
+      <edge id="1258" source="The Beatles" target="Mariah Carey" weight="26" />
+      <edge id="1259" source="The Beatles" target="Paramore" weight="38" />
+      <edge id="1260" source="The Beatles" target="Taylor Swift" weight="29" />
+      <edge id="1261" source="The Beatles" target="Queen" weight="39" />
+      <edge id="1262" source="The Beatles" target="Eminem" weight="23" />
+      <edge id="1263" source="The Beatles" target="The Kooks" weight="33" />
+      <edge id="1264" source="The Beatles" target="Oasis" weight="36" />
+      <edge id="1265" source="The Beatles" target="blink-182" weight="24" />
+      <edge id="1266" source="The Beatles" target="The Rolling Stones" weight="35" />
+      <edge id="1267" source="The Beatles" target="Nirvana" weight="36" />
+      <edge id="1268" source="The Beatles" target="The Pretty Reckless" weight="22" />
+      <edge id="1269" source="The Beatles" target="Interpol" weight="22" />
+      <edge id="1270" source="The Beatles" target="The White Stripes" weight="37" />
+      <edge id="1271" source="The Beatles" target="Metallica" weight="24" />
+      <edge id="1272" source="The Beatles" target="The Strokes" weight="24" />
+      <edge id="1273" source="The Beatles" target="30 Seconds to Mars" weight="27" />
+      <edge id="1274" source="The Beatles" target="The Doors" weight="24" />
+      <edge id="1275" source="MGMT" target="Crystal Castles" weight="21" />
+      <edge id="1276" source="MGMT" target="Black Eyed Peas" weight="22" />
+      <edge id="1277" source="MGMT" target="Gwen Stefani" weight="22" />
+      <edge id="1278" source="MGMT" target="Daft Punk" weight="21" />
+      <edge id="1279" source="MGMT" target="Evanescence" weight="21" />
+      <edge id="1280" source="MGMT" target="Lily Allen" weight="24" />
+      <edge id="1281" source="MGMT" target="Lady Gaga" weight="33" />
+      <edge id="1282" source="MGMT" target="3OH!3" weight="23" />
+      <edge id="1283" source="MGMT" target="Britney Spears" weight="29" />
+      <edge id="1284" source="MGMT" target="Rihanna" weight="22" />
+      <edge id="1285" source="MGMT" target="Christina Aguilera" weight="29" />
+      <edge id="1286" source="MGMT" target="Katy Perry" weight="25" />
+      <edge id="1287" source="MGMT" target="Hilary Duff" weight="23" />
+      <edge id="1288" source="MGMT" target="Miley Cyrus" weight="22" />
+      <edge id="1289" source="MGMT" target="U2" weight="27" />
+      <edge id="1290" source="MGMT" target="Avril Lavigne" weight="25" />
+      <edge id="1291" source="MGMT" target="Pink Floyd" weight="27" />
+      <edge id="1292" source="MGMT" target="Arcade Fire" weight="21" />
+      <edge id="1293" source="MGMT" target="Panic! At the Disco" weight="22" />
+      <edge id="1294" source="MGMT" target="Paramore" weight="29" />
+      <edge id="1295" source="MGMT" target="The Kooks" weight="30" />
+      <edge id="1296" source="MGMT" target="Oasis" weight="22" />
+      <edge id="1297" source="MGMT" target="Nirvana" weight="21" />
+      <edge id="1298" source="MGMT" target="The White Stripes" weight="22" />
+      <edge id="1299" source="Evanescence" target="Alicia Keys" weight="25" />
+      <edge id="1300" source="Evanescence" target="Black Eyed Peas" weight="21" />
+      <edge id="1301" source="Evanescence" target="Gwen Stefani" weight="25" />
+      <edge id="1302" source="Evanescence" target="Beyoncé" weight="29" />
+      <edge id="1303" source="Evanescence" target="Lady Gaga" weight="34" />
+      <edge id="1304" source="Evanescence" target="Nine Inch Nails" weight="30" />
+      <edge id="1305" source="Evanescence" target="t.A.T.u." weight="21" />
+      <edge id="1306" source="Evanescence" target="Ashlee Simpson" weight="27" />
+      <edge id="1307" source="Evanescence" target="Britney Spears" weight="36" />
+      <edge id="1308" source="Evanescence" target="Rihanna" weight="28" />
+      <edge id="1309" source="Evanescence" target="Christina Aguilera" weight="40" />
+      <edge id="1310" source="Evanescence" target="30 Seconds to Mars" weight="28" />
+      <edge id="1311" source="Evanescence" target="Katy Perry" weight="28" />
+      <edge id="1312" source="Evanescence" target="Linkin Park" weight="28" />
+      <edge id="1313" source="Evanescence" target="Hilary Duff" weight="28" />
+      <edge id="1314" source="Evanescence" target="Miley Cyrus" weight="24" />
+      <edge id="1315" source="Evanescence" target="Demi Lovato" weight="25" />
+      <edge id="1316" source="Evanescence" target="U2" weight="26" />
+      <edge id="1317" source="Evanescence" target="Kelly Clarkson" weight="34" />
+      <edge id="1318" source="Evanescence" target="Avril Lavigne" weight="39" />
+      <edge id="1319" source="Evanescence" target="Pink Floyd" weight="28" />
+      <edge id="1320" source="Evanescence" target="The Smashing Pumpkins" weight="24" />
+      <edge id="1321" source="Evanescence" target="Lindsay Lohan" weight="26" />
+      <edge id="1322" source="Evanescence" target="P!nk" weight="25" />
+      <edge id="1323" source="Evanescence" target="Mariah Carey" weight="26" />
+      <edge id="1324" source="Evanescence" target="Paramore" weight="33" />
+      <edge id="1325" source="Evanescence" target="Taylor Swift" weight="26" />
+      <edge id="1326" source="Evanescence" target="Eminem" weight="22" />
+      <edge id="1327" source="Evanescence" target="Oasis" weight="21" />
+      <edge id="1328" source="Evanescence" target="Nirvana" weight="23" />
+      <edge id="1329" source="Evanescence" target="Nightwish" weight="23" />
+      <edge id="1330" source="Evanescence" target="The Pretty Reckless" weight="21" />
+      <edge id="1331" source="Evanescence" target="Marilyn Manson" weight="23" />
+      <edge id="1332" source="Lily Allen" target="Black Eyed Peas" weight="23" />
+      <edge id="1333" source="Lily Allen" target="Gwen Stefani" weight="28" />
+      <edge id="1334" source="Lily Allen" target="Beyoncé" weight="28" />
+      <edge id="1335" source="Lily Allen" target="Lady Gaga" weight="34" />
+      <edge id="1336" source="Lily Allen" target="Ashlee Simpson" weight="24" />
+      <edge id="1337" source="Lily Allen" target="Britney Spears" weight="34" />
+      <edge id="1338" source="Lily Allen" target="Rihanna" weight="26" />
+      <edge id="1339" source="Lily Allen" target="Christina Aguilera" weight="35" />
+      <edge id="1340" source="Lily Allen" target="Katy Perry" weight="31" />
+      <edge id="1341" source="Lily Allen" target="Hilary Duff" weight="24" />
+      <edge id="1342" source="Lily Allen" target="Miley Cyrus" weight="26" />
+      <edge id="1343" source="Lily Allen" target="Demi Lovato" weight="24" />
+      <edge id="1344" source="Lily Allen" target="U2" weight="21" />
+      <edge id="1345" source="Lily Allen" target="Kelly Clarkson" weight="24" />
+      <edge id="1346" source="Lily Allen" target="Avril Lavigne" weight="31" />
+      <edge id="1347" source="Lily Allen" target="P!nk" weight="24" />
+      <edge id="1348" source="Lily Allen" target="Paramore" weight="25" />
+      <edge id="1349" source="Lily Allen" target="Taylor Swift" weight="25" />
+      <edge id="1350" source="Alicia Keys" target="Timbaland" weight="22" />
+      <edge id="1351" source="Alicia Keys" target="Black Eyed Peas" weight="23" />
+      <edge id="1352" source="Alicia Keys" target="Beyoncé" weight="40" />
+      <edge id="1353" source="Alicia Keys" target="Lady Gaga" weight="24" />
+      <edge id="1354" source="Alicia Keys" target="Britney Spears" weight="31" />
+      <edge id="1355" source="Alicia Keys" target="Rihanna" weight="29" />
+      <edge id="1356" source="Alicia Keys" target="Christina Aguilera" weight="39" />
+      <edge id="1357" source="Alicia Keys" target="Katy Perry" weight="26" />
+      <edge id="1358" source="Alicia Keys" target="Jennifer Lopez" weight="28" />
+      <edge id="1359" source="Alicia Keys" target="Kelly Clarkson" weight="27" />
+      <edge id="1360" source="Alicia Keys" target="Avril Lavigne" weight="26" />
+      <edge id="1361" source="Alicia Keys" target="P!nk" weight="23" />
+      <edge id="1362" source="Alicia Keys" target="Mariah Carey" weight="37" />
+      <edge id="1363" source="Alicia Keys" target="Taylor Swift" weight="25" />
+      <edge id="1364" source="Alicia Keys" target="Eminem" weight="22" />
+      <edge id="1365" source="Alicia Keys" target="Leona Lewis" weight="21" />
+      <edge id="1366" source="Black Eyed Peas" target="Timbaland" weight="24" />
+      <edge id="1367" source="Black Eyed Peas" target="Gwen Stefani" weight="32" />
+      <edge id="1368" source="Black Eyed Peas" target="Beyoncé" weight="37" />
+      <edge id="1369" source="Black Eyed Peas" target="Ciara" weight="21" />
+      <edge id="1370" source="Black Eyed Peas" target="Lady Gaga" weight="42" />
+      <edge id="1371" source="Black Eyed Peas" target="3OH!3" weight="32" />
+      <edge id="1372" source="Black Eyed Peas" target="Ke$ha" weight="30" />
+      <edge id="1373" source="Black Eyed Peas" target="Ashlee Simpson" weight="30" />
+      <edge id="1374" source="Black Eyed Peas" target="Britney Spears" weight="41" />
+      <edge id="1375" source="Black Eyed Peas" target="Rihanna" weight="43" />
+      <edge id="1376" source="Black Eyed Peas" target="Christina Aguilera" weight="45" />
+      <edge id="1377" source="Black Eyed Peas" target="David Guetta" weight="24" />
+      <edge id="1378" source="Black Eyed Peas" target="30 Seconds to Mars" weight="21" />
+      <edge id="1379" source="Black Eyed Peas" target="Katy Perry" weight="38" />
+      <edge id="1380" source="Black Eyed Peas" target="Linkin Park" weight="23" />
+      <edge id="1381" source="Black Eyed Peas" target="Kanye West" weight="22" />
+      <edge id="1382" source="Black Eyed Peas" target="Pixie Lott" weight="21" />
+      <edge id="1383" source="Black Eyed Peas" target="Hilary Duff" weight="29" />
+      <edge id="1384" source="Black Eyed Peas" target="Miley Cyrus" weight="29" />
+      <edge id="1385" source="Black Eyed Peas" target="Demi Lovato" weight="23" />
+      <edge id="1386" source="Black Eyed Peas" target="Selena Gomez &amp; the Scene" weight="21" />
+      <edge id="1387" source="Black Eyed Peas" target="Justin Timberlake" weight="25" />
+      <edge id="1388" source="Black Eyed Peas" target="Jennifer Lopez" weight="24" />
+      <edge id="1389" source="Black Eyed Peas" target="The Pussycat Dolls" weight="25" />
+      <edge id="1390" source="Black Eyed Peas" target="Kelly Clarkson" weight="28" />
+      <edge id="1391" source="Black Eyed Peas" target="Avril Lavigne" weight="30" />
+      <edge id="1392" source="Black Eyed Peas" target="Ashley Tisdale" weight="26" />
+      <edge id="1393" source="Black Eyed Peas" target="P!nk" weight="28" />
+      <edge id="1394" source="Black Eyed Peas" target="Mariah Carey" weight="26" />
+      <edge id="1395" source="Black Eyed Peas" target="Paramore" weight="25" />
+      <edge id="1396" source="Black Eyed Peas" target="Taylor Swift" weight="21" />
+      <edge id="1397" source="Black Eyed Peas" target="Eminem" weight="29" />
+      <edge id="1398" source="Gwen Stefani" target="Beyoncé" weight="29" />
+      <edge id="1399" source="Gwen Stefani" target="Ciara" weight="21" />
+      <edge id="1400" source="Gwen Stefani" target="Lady Gaga" weight="37" />
+      <edge id="1401" source="Gwen Stefani" target="3OH!3" weight="24" />
+      <edge id="1402" source="Gwen Stefani" target="Ke$ha" weight="23" />
+      <edge id="1403" source="Gwen Stefani" target="Ashlee Simpson" weight="30" />
+      <edge id="1404" source="Gwen Stefani" target="Britney Spears" weight="46" />
+      <edge id="1405" source="Gwen Stefani" target="Rihanna" weight="38" />
+      <edge id="1406" source="Gwen Stefani" target="Christina Aguilera" weight="48" />
+      <edge id="1407" source="Gwen Stefani" target="The Veronicas" weight="22" />
+      <edge id="1408" source="Gwen Stefani" target="Katy Perry" weight="39" />
+      <edge id="1409" source="Gwen Stefani" target="Hilary Duff" weight="40" />
+      <edge id="1410" source="Gwen Stefani" target="Miley Cyrus" weight="30" />
+      <edge id="1411" source="Gwen Stefani" target="Demi Lovato" weight="26" />
+      <edge id="1412" source="Gwen Stefani" target="Selena Gomez &amp; the Scene" weight="21" />
+      <edge id="1413" source="Gwen Stefani" target="Justin Timberlake" weight="24" />
+      <edge id="1414" source="Gwen Stefani" target="The Pussycat Dolls" weight="25" />
+      <edge id="1415" source="Gwen Stefani" target="Kelly Clarkson" weight="31" />
+      <edge id="1416" source="Gwen Stefani" target="Avril Lavigne" weight="40" />
+      <edge id="1417" source="Gwen Stefani" target="Ashley Tisdale" weight="30" />
+      <edge id="1418" source="Gwen Stefani" target="Lindsay Lohan" weight="26" />
+      <edge id="1419" source="Gwen Stefani" target="P!nk" weight="26" />
+      <edge id="1420" source="Gwen Stefani" target="Mariah Carey" weight="26" />
+      <edge id="1421" source="Gwen Stefani" target="Paramore" weight="29" />
+      <edge id="1422" source="Gwen Stefani" target="Taylor Swift" weight="26" />
+      <edge id="1423" source="Gwen Stefani" target="Eminem" weight="21" />
+      <edge id="1424" source="Daft Punk" target="Lady Gaga" weight="23" />
+      <edge id="1425" source="Daft Punk" target="New Order" weight="21" />
+      <edge id="1426" source="Daft Punk" target="Britney Spears" weight="27" />
+      <edge id="1427" source="Daft Punk" target="Christina Aguilera" weight="28" />
+      <edge id="1428" source="Beyoncé" target="Timbaland" weight="28" />
+      <edge id="1429" source="Beyoncé" target="Ciara" weight="28" />
+      <edge id="1430" source="Beyoncé" target="Lady Gaga" weight="49" />
+      <edge id="1431" source="Beyoncé" target="3OH!3" weight="24" />
+      <edge id="1432" source="Beyoncé" target="Ke$ha" weight="28" />
+      <edge id="1433" source="Beyoncé" target="Ashlee Simpson" weight="28" />
+      <edge id="1434" source="Beyoncé" target="Britney Spears" weight="65" />
+      <edge id="1435" source="Beyoncé" target="Rihanna" weight="61" />
+      <edge id="1436" source="Beyoncé" target="Christina Aguilera" weight="67" />
+      <edge id="1437" source="Beyoncé" target="David Guetta" weight="21" />
+      <edge id="1438" source="Beyoncé" target="30 Seconds to Mars" weight="21" />
+      <edge id="1439" source="Beyoncé" target="Katy Perry" weight="48" />
+      <edge id="1440" source="Beyoncé" target="Kanye West" weight="24" />
+      <edge id="1441" source="Beyoncé" target="Hilary Duff" weight="34" />
+      <edge id="1442" source="Beyoncé" target="Miley Cyrus" weight="32" />
+      <edge id="1443" source="Beyoncé" target="Demi Lovato" weight="23" />
+      <edge id="1444" source="Beyoncé" target="Selena Gomez &amp; the Scene" weight="22" />
+      <edge id="1445" source="Beyoncé" target="Glee Cast" weight="26" />
+      <edge id="1446" source="Beyoncé" target="Justin Timberlake" weight="31" />
+      <edge id="1447" source="Beyoncé" target="Jennifer Lopez" weight="36" />
+      <edge id="1448" source="Beyoncé" target="The Pussycat Dolls" weight="27" />
+      <edge id="1449" source="Beyoncé" target="Kelly Clarkson" weight="43" />
+      <edge id="1450" source="Beyoncé" target="Avril Lavigne" weight="38" />
+      <edge id="1451" source="Beyoncé" target="Ashley Tisdale" weight="26" />
+      <edge id="1452" source="Beyoncé" target="Lindsay Lohan" weight="29" />
+      <edge id="1453" source="Beyoncé" target="Nicole Scherzinger" weight="21" />
+      <edge id="1454" source="Beyoncé" target="P!nk" weight="39" />
+      <edge id="1455" source="Beyoncé" target="Mariah Carey" weight="54" />
+      <edge id="1456" source="Beyoncé" target="Paramore" weight="29" />
+      <edge id="1457" source="Beyoncé" target="Taylor Swift" weight="33" />
+      <edge id="1458" source="Beyoncé" target="Eminem" weight="32" />
+      <edge id="1459" source="Beyoncé" target="Leona Lewis" weight="29" />
+      <edge id="1460" source="Timbaland" target="3OH!3" weight="22" />
+      <edge id="1461" source="Timbaland" target="Britney Spears" weight="28" />
+      <edge id="1462" source="Timbaland" target="Rihanna" weight="33" />
+      <edge id="1463" source="Timbaland" target="Christina Aguilera" weight="24" />
+      <edge id="1464" source="Timbaland" target="Katy Perry" weight="21" />
+      <edge id="1465" source="Timbaland" target="Kanye West" weight="21" />
+      <edge id="1466" source="Timbaland" target="Justin Timberlake" weight="25" />
+      <edge id="1467" source="Timbaland" target="Mariah Carey" weight="21" />
+      <edge id="1468" source="Ciara" target="Lady Gaga" weight="23" />
+      <edge id="1469" source="Ciara" target="Britney Spears" weight="29" />
+      <edge id="1470" source="Ciara" target="Rihanna" weight="28" />
+      <edge id="1471" source="Ciara" target="Christina Aguilera" weight="29" />
+      <edge id="1472" source="Ciara" target="Katy Perry" weight="21" />
+      <edge id="1473" source="Ciara" target="Kanye West" weight="23" />
+      <edge id="1474" source="Ciara" target="Justin Timberlake" weight="21" />
+      <edge id="1475" source="Ciara" target="The Pussycat Dolls" weight="21" />
+      <edge id="1476" source="Ciara" target="Kelly Clarkson" weight="23" />
+      <edge id="1477" source="Ciara" target="Mariah Carey" weight="25" />
+      <edge id="1478" source="Lady Gaga" target="Nine Inch Nails" weight="30" />
+      <edge id="1479" source="Lady Gaga" target="3OH!3" weight="33" />
+      <edge id="1480" source="Lady Gaga" target="Ke$ha" weight="43" />
+      <edge id="1481" source="Lady Gaga" target="t.A.T.u." weight="27" />
+      <edge id="1482" source="Lady Gaga" target="Ashlee Simpson" weight="41" />
+      <edge id="1483" source="Lady Gaga" target="Britney Spears" weight="99" />
+      <edge id="1484" source="Lady Gaga" target="Rihanna" weight="62" />
+      <edge id="1485" source="Lady Gaga" target="Christina Aguilera" weight="79" />
+      <edge id="1486" source="Lady Gaga" target="David Guetta" weight="22" />
+      <edge id="1487" source="Lady Gaga" target="The Veronicas" weight="21" />
+      <edge id="1488" source="Lady Gaga" target="30 Seconds to Mars" weight="28" />
+      <edge id="1489" source="Lady Gaga" target="Katy Perry" weight="72" />
+      <edge id="1490" source="Lady Gaga" target="Linkin Park" weight="24" />
+      <edge id="1491" source="Lady Gaga" target="Kanye West" weight="27" />
+      <edge id="1492" source="Lady Gaga" target="Pixie Lott" weight="29" />
+      <edge id="1493" source="Lady Gaga" target="Hilary Duff" weight="44" />
+      <edge id="1494" source="Lady Gaga" target="Miley Cyrus" weight="59" />
+      <edge id="1495" source="Lady Gaga" target="Enrique Iglesias" weight="25" />
+      <edge id="1496" source="Lady Gaga" target="Demi Lovato" weight="46" />
+      <edge id="1497" source="Lady Gaga" target="Selena Gomez &amp; the Scene" weight="30" />
+      <edge id="1498" source="Lady Gaga" target="Glee Cast" weight="31" />
+      <edge id="1499" source="Lady Gaga" target="Justin Timberlake" weight="25" />
+      <edge id="1500" source="Lady Gaga" target="U2" weight="27" />
+      <edge id="1501" source="Lady Gaga" target="Jennifer Lopez" weight="26" />
+      <edge id="1502" source="Lady Gaga" target="The Pussycat Dolls" weight="26" />
+      <edge id="1503" source="Lady Gaga" target="Kelly Clarkson" weight="48" />
+      <edge id="1504" source="Lady Gaga" target="Avril Lavigne" weight="57" />
+      <edge id="1505" source="Lady Gaga" target="Pink Floyd" weight="22" />
+      <edge id="1506" source="Lady Gaga" target="Ashley Tisdale" weight="31" />
+      <edge id="1507" source="Lady Gaga" target="Lindsay Lohan" weight="41" />
+      <edge id="1508" source="Lady Gaga" target="P!nk" weight="37" />
+      <edge id="1509" source="Lady Gaga" target="Panic! At the Disco" weight="23" />
+      <edge id="1510" source="Lady Gaga" target="Mariah Carey" weight="44" />
+      <edge id="1511" source="Lady Gaga" target="Adam Lambert" weight="23" />
+      <edge id="1512" source="Lady Gaga" target="Paramore" weight="46" />
+      <edge id="1513" source="Lady Gaga" target="Taylor Swift" weight="47" />
+      <edge id="1514" source="Lady Gaga" target="Queen" weight="27" />
+      <edge id="1515" source="Lady Gaga" target="Eminem" weight="30" />
+      <edge id="1516" source="Lady Gaga" target="Leona Lewis" weight="26" />
+      <edge id="1517" source="Lady Gaga" target="Nirvana" weight="22" />
+      <edge id="1518" source="Lady Gaga" target="The Pretty Reckless" weight="24" />
+      <edge id="1519" source="Lady Gaga" target="Marilyn Manson" weight="21" />
+      <edge id="1520" source="Nine Inch Nails" target="Britney Spears" weight="29" />
+      <edge id="1521" source="Nine Inch Nails" target="Rihanna" weight="21" />
+      <edge id="1522" source="Nine Inch Nails" target="Christina Aguilera" weight="31" />
+      <edge id="1523" source="Nine Inch Nails" target="30 Seconds to Mars" weight="29" />
+      <edge id="1524" source="Nine Inch Nails" target="Linkin Park" weight="23" />
+      <edge id="1525" source="Nine Inch Nails" target="U2" weight="24" />
+      <edge id="1526" source="Nine Inch Nails" target="Kelly Clarkson" weight="23" />
+      <edge id="1527" source="Nine Inch Nails" target="Avril Lavigne" weight="23" />
+      <edge id="1528" source="Nine Inch Nails" target="Pink Floyd" weight="27" />
+      <edge id="1529" source="Nine Inch Nails" target="Nirvana" weight="23" />
+      <edge id="1530" source="Nine Inch Nails" target="The White Stripes" weight="21" />
+      <edge id="1531" source="Nine Inch Nails" target="Metallica" weight="24" />
+      <edge id="1532" source="Nine Inch Nails" target="The Smashing Pumpkins" weight="25" />
+      <edge id="1533" source="Nine Inch Nails" target="Paramore" weight="22" />
+      <edge id="1534" source="Nine Inch Nails" target="Marilyn Manson" weight="27" />
+      <edge id="1535" source="New Order" target="Joy Division" weight="31" />
+      <edge id="1536" source="New Order" target="Franz Ferdinand" weight="22" />
+      <edge id="1537" source="New Order" target="U2" weight="38" />
+      <edge id="1538" source="New Order" target="Avril Lavigne" weight="21" />
+      <edge id="1539" source="New Order" target="The Smiths" weight="31" />
+      <edge id="1540" source="New Order" target="Oasis" weight="24" />
+      <edge id="1541" source="New Order" target="Interpol" weight="23" />
+      <edge id="1542" source="New Order" target="The White Stripes" weight="23" />
+      <edge id="1543" source="Britney Spears" target="3OH!3" weight="37" />
+      <edge id="1544" source="Britney Spears" target="Ke$ha" weight="44" />
+      <edge id="1545" source="Britney Spears" target="t.A.T.u." weight="33" />
+      <edge id="1546" source="Britney Spears" target="Ashlee Simpson" weight="45" />
+      <edge id="1547" source="Britney Spears" target="Rihanna" weight="76" />
+      <edge id="1548" source="Britney Spears" target="Christina Aguilera" weight="102" />
+      <edge id="1549" source="Britney Spears" target="David Guetta" weight="24" />
+      <edge id="1550" source="Britney Spears" target="The Veronicas" weight="27" />
+      <edge id="1551" source="Britney Spears" target="30 Seconds to Mars" weight="26" />
+      <edge id="1552" source="Britney Spears" target="Katy Perry" weight="80" />
+      <edge id="1553" source="Britney Spears" target="Linkin Park" weight="30" />
+      <edge id="1554" source="Britney Spears" target="Kanye West" weight="31" />
+      <edge id="1555" source="Britney Spears" target="Pixie Lott" weight="28" />
+      <edge id="1556" source="Britney Spears" target="Cobra Starship" weight="22" />
+      <edge id="1557" source="Britney Spears" target="Hilary Duff" weight="62" />
+      <edge id="1558" source="Britney Spears" target="Miley Cyrus" weight="68" />
+      <edge id="1559" source="Britney Spears" target="Enrique Iglesias" weight="26" />
+      <edge id="1560" source="Britney Spears" target="Demi Lovato" weight="46" />
+      <edge id="1561" source="Britney Spears" target="Selena Gomez &amp; the Scene" weight="34" />
+      <edge id="1562" source="Britney Spears" target="Glee Cast" weight="30" />
+      <edge id="1563" source="Britney Spears" target="Justin Timberlake" weight="35" />
+      <edge id="1564" source="Britney Spears" target="U2" weight="32" />
+      <edge id="1565" source="Britney Spears" target="Jennifer Lopez" weight="33" />
+      <edge id="1566" source="Britney Spears" target="The Pussycat Dolls" weight="33" />
+      <edge id="1567" source="Britney Spears" target="Kelly Clarkson" weight="56" />
+      <edge id="1568" source="Britney Spears" target="Avril Lavigne" weight="64" />
+      <edge id="1569" source="Britney Spears" target="Pink Floyd" weight="22" />
+      <edge id="1570" source="Britney Spears" target="Ashley Tisdale" weight="49" />
+      <edge id="1571" source="Britney Spears" target="Lindsay Lohan" weight="52" />
+      <edge id="1572" source="Britney Spears" target="Nicole Scherzinger" weight="23" />
+      <edge id="1573" source="Britney Spears" target="P!nk" weight="42" />
+      <edge id="1574" source="Britney Spears" target="Panic! At the Disco" weight="27" />
+      <edge id="1575" source="Britney Spears" target="Mariah Carey" weight="59" />
+      <edge id="1576" source="Britney Spears" target="Adam Lambert" weight="24" />
+      <edge id="1577" source="Britney Spears" target="Paramore" weight="47" />
+      <edge id="1578" source="Britney Spears" target="Taylor Swift" weight="57" />
+      <edge id="1579" source="Britney Spears" target="Queen" weight="28" />
+      <edge id="1580" source="Britney Spears" target="Eminem" weight="34" />
+      <edge id="1581" source="Britney Spears" target="Leona Lewis" weight="28" />
+      <edge id="1582" source="Britney Spears" target="Oasis" weight="24" />
+      <edge id="1583" source="Britney Spears" target="blink-182" weight="23" />
+      <edge id="1584" source="Britney Spears" target="Nirvana" weight="30" />
+      <edge id="1585" source="Britney Spears" target="The Pretty Reckless" weight="26" />
+      <edge id="1586" source="Britney Spears" target="Guns N' Roses" weight="21" />
+      <edge id="1587" source="Britney Spears" target="The Smashing Pumpkins" weight="21" />
+      <edge id="1588" source="Britney Spears" target="The White Stripes" weight="23" />
+      <edge id="1589" source="Britney Spears" target="Metallica" weight="24" />
+      <edge id="1590" source="The Strokes" target="U2" weight="21" />
+      <edge id="1591" source="The Strokes" target="Avril Lavigne" weight="22" />
+      <edge id="1592" source="The Strokes" target="Paramore" weight="24" />
+      <edge id="1593" source="The Strokes" target="Oasis" weight="21" />
+      <edge id="1594" source="The Strokes" target="Interpol" weight="23" />
+      <edge id="1595" source="The Strokes" target="The White Stripes" weight="23" />
+      <edge id="1596" source="Rihanna" target="3OH!3" weight="32" />
+      <edge id="1597" source="Rihanna" target="Ke$ha" weight="32" />
+      <edge id="1598" source="Rihanna" target="t.A.T.u." weight="21" />
+      <edge id="1599" source="Rihanna" target="Ashlee Simpson" weight="32" />
+      <edge id="1600" source="Rihanna" target="Christina Aguilera" weight="66" />
+      <edge id="1601" source="Rihanna" target="David Guetta" weight="26" />
+      <edge id="1602" source="Rihanna" target="30 Seconds to Mars" weight="24" />
+      <edge id="1603" source="Rihanna" target="Katy Perry" weight="50" />
+      <edge id="1604" source="Rihanna" target="Linkin Park" weight="23" />
+      <edge id="1605" source="Rihanna" target="Kanye West" weight="26" />
+      <edge id="1606" source="Rihanna" target="Pixie Lott" weight="24" />
+      <edge id="1607" source="Rihanna" target="Hilary Duff" weight="39" />
+      <edge id="1608" source="Rihanna" target="Miley Cyrus" weight="41" />
+      <edge id="1609" source="Rihanna" target="Enrique Iglesias" weight="25" />
+      <edge id="1610" source="Rihanna" target="Demi Lovato" weight="26" />
+      <edge id="1611" source="Rihanna" target="Selena Gomez &amp; the Scene" weight="29" />
+      <edge id="1612" source="Rihanna" target="Glee Cast" weight="23" />
+      <edge id="1613" source="Rihanna" target="Justin Timberlake" weight="30" />
+      <edge id="1614" source="Rihanna" target="Jennifer Lopez" weight="37" />
+      <edge id="1615" source="Rihanna" target="The Pussycat Dolls" weight="35" />
+      <edge id="1616" source="Rihanna" target="Kelly Clarkson" weight="40" />
+      <edge id="1617" source="Rihanna" target="Avril Lavigne" weight="44" />
+      <edge id="1618" source="Rihanna" target="Ashley Tisdale" weight="33" />
+      <edge id="1619" source="Rihanna" target="Lindsay Lohan" weight="26" />
+      <edge id="1620" source="Rihanna" target="Nicole Scherzinger" weight="24" />
+      <edge id="1621" source="Rihanna" target="P!nk" weight="40" />
+      <edge id="1622" source="Rihanna" target="Mariah Carey" weight="47" />
+      <edge id="1623" source="Rihanna" target="Paramore" weight="34" />
+      <edge id="1624" source="Rihanna" target="Taylor Swift" weight="33" />
+      <edge id="1625" source="Rihanna" target="Queen" weight="21" />
+      <edge id="1626" source="Rihanna" target="Eminem" weight="32" />
+      <edge id="1627" source="Rihanna" target="Leona Lewis" weight="25" />
+      <edge id="1628" source="Rihanna" target="The Pretty Reckless" weight="22" />
+      <edge id="1629" source="Christina Aguilera" target="3OH!3" weight="35" />
+      <edge id="1630" source="Christina Aguilera" target="Ke$ha" weight="34" />
+      <edge id="1631" source="Christina Aguilera" target="t.A.T.u." weight="27" />
+      <edge id="1632" source="Christina Aguilera" target="Ashlee Simpson" weight="46" />
+      <edge id="1633" source="Christina Aguilera" target="David Guetta" weight="24" />
+      <edge id="1634" source="Christina Aguilera" target="The Veronicas" weight="23" />
+      <edge id="1635" source="Christina Aguilera" target="30 Seconds to Mars" weight="28" />
+      <edge id="1636" source="Christina Aguilera" target="Katy Perry" weight="70" />
+      <edge id="1637" source="Christina Aguilera" target="Linkin Park" weight="26" />
+      <edge id="1638" source="Christina Aguilera" target="Kanye West" weight="30" />
+      <edge id="1639" source="Christina Aguilera" target="Pixie Lott" weight="31" />
+      <edge id="1640" source="Christina Aguilera" target="Hilary Duff" weight="50" />
+      <edge id="1641" source="Christina Aguilera" target="Miley Cyrus" weight="52" />
+      <edge id="1642" source="Christina Aguilera" target="Enrique Iglesias" weight="29" />
+      <edge id="1643" source="Christina Aguilera" target="Demi Lovato" weight="41" />
+      <edge id="1644" source="Christina Aguilera" target="Selena Gomez &amp; the Scene" weight="31" />
+      <edge id="1645" source="Christina Aguilera" target="Glee Cast" weight="33" />
+      <edge id="1646" source="Christina Aguilera" target="Justin Timberlake" weight="38" />
+      <edge id="1647" source="Christina Aguilera" target="U2" weight="31" />
+      <edge id="1648" source="Christina Aguilera" target="Jennifer Lopez" weight="38" />
+      <edge id="1649" source="Christina Aguilera" target="The Pussycat Dolls" weight="32" />
+      <edge id="1650" source="Christina Aguilera" target="Kelly Clarkson" weight="54" />
+      <edge id="1651" source="Christina Aguilera" target="Avril Lavigne" weight="62" />
+      <edge id="1652" source="Christina Aguilera" target="Pink Floyd" weight="26" />
+      <edge id="1653" source="Christina Aguilera" target="Ashley Tisdale" weight="42" />
+      <edge id="1654" source="Christina Aguilera" target="Lindsay Lohan" weight="43" />
+      <edge id="1655" source="Christina Aguilera" target="Nicole Scherzinger" weight="29" />
+      <edge id="1656" source="Christina Aguilera" target="P!nk" weight="42" />
+      <edge id="1657" source="Christina Aguilera" target="Mariah Carey" weight="70" />
+      <edge id="1658" source="Christina Aguilera" target="Adam Lambert" weight="23" />
+      <edge id="1659" source="Christina Aguilera" target="Paramore" weight="48" />
+      <edge id="1660" source="Christina Aguilera" target="Taylor Swift" weight="57" />
+      <edge id="1661" source="Christina Aguilera" target="Queen" weight="31" />
+      <edge id="1662" source="Christina Aguilera" target="Eminem" weight="39" />
+      <edge id="1663" source="Christina Aguilera" target="Leona Lewis" weight="31" />
+      <edge id="1664" source="Christina Aguilera" target="Oasis" weight="24" />
+      <edge id="1665" source="Christina Aguilera" target="Nirvana" weight="28" />
+      <edge id="1666" source="Christina Aguilera" target="The Pretty Reckless" weight="23" />
+      <edge id="1667" source="Christina Aguilera" target="The White Stripes" weight="24" />
+      <edge id="1668" source="Christina Aguilera" target="Metallica" weight="21" />
+      <edge id="1669" source="30 Seconds to Mars" target="Katy Perry" weight="24" />
+      <edge id="1670" source="30 Seconds to Mars" target="Linkin Park" weight="24" />
+      <edge id="1671" source="30 Seconds to Mars" target="Demi Lovato" weight="21" />
+      <edge id="1672" source="30 Seconds to Mars" target="U2" weight="23" />
+      <edge id="1673" source="30 Seconds to Mars" target="Kelly Clarkson" weight="27" />
+      <edge id="1674" source="30 Seconds to Mars" target="Avril Lavigne" weight="27" />
+      <edge id="1675" source="30 Seconds to Mars" target="P!nk" weight="23" />
+      <edge id="1676" source="30 Seconds to Mars" target="Paramore" weight="32" />
+      <edge id="1677" source="30 Seconds to Mars" target="Marilyn Manson" weight="23" />
+      <edge id="1678" source="30 Seconds to Mars" target="The Smashing Pumpkins" weight="23" />
+      <edge id="1679" source="30 Seconds to Mars" target="Panic! At the Disco" weight="23" />
+      <edge id="1680" source="30 Seconds to Mars" target="Oasis" weight="22" />
+      <edge id="1681" source="30 Seconds to Mars" target="Nirvana" weight="21" />
+      <edge id="1682" source="Yeah Yeah Yeahs" target="Avril Lavigne" weight="21" />
+      <edge id="1683" source="Yeah Yeah Yeahs" target="Paramore" weight="22" />
+      <edge id="1684" source="Linkin Park" target="Justin Timberlake" weight="22" />
+      <edge id="1685" source="Linkin Park" target="U2" weight="22" />
+      <edge id="1686" source="Linkin Park" target="Kelly Clarkson" weight="25" />
+      <edge id="1687" source="Linkin Park" target="Avril Lavigne" weight="24" />
+      <edge id="1688" source="Linkin Park" target="Paramore" weight="23" />
+      <edge id="1689" source="Linkin Park" target="Eminem" weight="21" />
+      <edge id="1690" source="Joy Division" target="U2" weight="30" />
+      <edge id="1691" source="Joy Division" target="The Smiths" weight="25" />
+      <edge id="1692" source="Franz Ferdinand" target="U2" weight="21" />
+      <edge id="1693" source="Franz Ferdinand" target="Oasis" weight="21" />
+      <edge id="1694" source="U2" target="Katy Perry" weight="25" />
+      <edge id="1695" source="U2" target="Kelly Clarkson" weight="21" />
+      <edge id="1696" source="U2" target="Avril Lavigne" weight="35" />
+      <edge id="1697" source="U2" target="Pink Floyd" weight="24" />
+      <edge id="1698" source="U2" target="The Smashing Pumpkins" weight="27" />
+      <edge id="1699" source="U2" target="The Smiths" weight="29" />
+      <edge id="1700" source="U2" target="Panic! At the Disco" weight="22" />
+      <edge id="1701" source="U2" target="Paramore" weight="26" />
+      <edge id="1702" source="U2" target="Queen" weight="27" />
+      <edge id="1703" source="U2" target="Oasis" weight="33" />
+      <edge id="1704" source="U2" target="Nirvana" weight="29" />
+      <edge id="1705" source="U2" target="Interpol" weight="23" />
+      <edge id="1706" source="U2" target="The White Stripes" weight="30" />
+      <edge id="1707" source="Kelly Clarkson" target="3OH!3" weight="23" />
+      <edge id="1708" source="Kelly Clarkson" target="Ashlee Simpson" weight="42" />
+      <edge id="1709" source="Kelly Clarkson" target="Katy Perry" weight="43" />
+      <edge id="1710" source="Kelly Clarkson" target="Kanye West" weight="23" />
+      <edge id="1711" source="Kelly Clarkson" target="Hilary Duff" weight="36" />
+      <edge id="1712" source="Kelly Clarkson" target="Miley Cyrus" weight="38" />
+      <edge id="1713" source="Kelly Clarkson" target="Demi Lovato" weight="32" />
+      <edge id="1714" source="Kelly Clarkson" target="Selena Gomez &amp; the Scene" weight="23" />
+      <edge id="1715" source="Kelly Clarkson" target="Glee Cast" weight="22" />
+      <edge id="1716" source="Kelly Clarkson" target="Justin Timberlake" weight="24" />
+      <edge id="1717" source="Kelly Clarkson" target="Jennifer Lopez" weight="24" />
+      <edge id="1718" source="Kelly Clarkson" target="The Pussycat Dolls" weight="25" />
+      <edge id="1719" source="Kelly Clarkson" target="Avril Lavigne" weight="61" />
+      <edge id="1720" source="Kelly Clarkson" target="Ashley Tisdale" weight="27" />
+      <edge id="1721" source="Kelly Clarkson" target="Lindsay Lohan" weight="30" />
+      <edge id="1722" source="Kelly Clarkson" target="P!nk" weight="36" />
+      <edge id="1723" source="Kelly Clarkson" target="Panic! At the Disco" weight="22" />
+      <edge id="1724" source="Kelly Clarkson" target="Mariah Carey" weight="35" />
+      <edge id="1725" source="Kelly Clarkson" target="Paramore" weight="38" />
+      <edge id="1726" source="Kelly Clarkson" target="Taylor Swift" weight="39" />
+      <edge id="1727" source="Kelly Clarkson" target="Eminem" weight="26" />
+      <edge id="1728" source="Kelly Clarkson" target="Leona Lewis" weight="22" />
+      <edge id="1729" source="Kelly Clarkson" target="blink-182" weight="24" />
+      <edge id="1730" source="Kelly Clarkson" target="Nirvana" weight="22" />
+      <edge id="1731" source="Kelly Clarkson" target="The Pretty Reckless" weight="22" />
+      <edge id="1732" source="Avril Lavigne" target="3OH!3" weight="26" />
+      <edge id="1733" source="Avril Lavigne" target="Ke$ha" weight="32" />
+      <edge id="1734" source="Avril Lavigne" target="t.A.T.u." weight="31" />
+      <edge id="1735" source="Avril Lavigne" target="Ashlee Simpson" weight="58" />
+      <edge id="1736" source="Avril Lavigne" target="The Veronicas" weight="23" />
+      <edge id="1737" source="Avril Lavigne" target="Katy Perry" weight="56" />
+      <edge id="1738" source="Avril Lavigne" target="Pixie Lott" weight="24" />
+      <edge id="1739" source="Avril Lavigne" target="Cobra Starship" weight="22" />
+      <edge id="1740" source="Avril Lavigne" target="Hilary Duff" weight="40" />
+      <edge id="1741" source="Avril Lavigne" target="Miley Cyrus" weight="49" />
+      <edge id="1742" source="Avril Lavigne" target="Demi Lovato" weight="40" />
+      <edge id="1743" source="Avril Lavigne" target="Selena Gomez &amp; the Scene" weight="26" />
+      <edge id="1744" source="Avril Lavigne" target="Glee Cast" weight="30" />
+      <edge id="1745" source="Avril Lavigne" target="Justin Timberlake" weight="30" />
+      <edge id="1746" source="Avril Lavigne" target="Jennifer Lopez" weight="24" />
+      <edge id="1747" source="Avril Lavigne" target="The Pussycat Dolls" weight="23" />
+      <edge id="1748" source="Avril Lavigne" target="Ashley Tisdale" weight="31" />
+      <edge id="1749" source="Avril Lavigne" target="Lindsay Lohan" weight="40" />
+      <edge id="1750" source="Avril Lavigne" target="P!nk" weight="37" />
+      <edge id="1751" source="Avril Lavigne" target="Panic! At the Disco" weight="28" />
+      <edge id="1752" source="Avril Lavigne" target="Mariah Carey" weight="36" />
+      <edge id="1753" source="Avril Lavigne" target="Paramore" weight="54" />
+      <edge id="1754" source="Avril Lavigne" target="Taylor Swift" weight="43" />
+      <edge id="1755" source="Avril Lavigne" target="Queen" weight="26" />
+      <edge id="1756" source="Avril Lavigne" target="Eminem" weight="30" />
+      <edge id="1757" source="Avril Lavigne" target="Leona Lewis" weight="24" />
+      <edge id="1758" source="Avril Lavigne" target="My Chemical Romance" weight="22" />
+      <edge id="1759" source="Avril Lavigne" target="Oasis" weight="23" />
+      <edge id="1760" source="Avril Lavigne" target="blink-182" weight="32" />
+      <edge id="1761" source="Avril Lavigne" target="Nirvana" weight="29" />
+      <edge id="1762" source="Avril Lavigne" target="Fall Out Boy" weight="23" />
+      <edge id="1763" source="Avril Lavigne" target="The Pretty Reckless" weight="27" />
+      <edge id="1764" source="Avril Lavigne" target="The Smashing Pumpkins" weight="24" />
+      <edge id="1765" source="Avril Lavigne" target="Metallica" weight="21" />
+      <edge id="1766" source="Avril Lavigne" target="The White Stripes" weight="24" />
+      <edge id="1767" source="Pink Floyd" target="Guns N' Roses" weight="26" />
+      <edge id="1768" source="Pink Floyd" target="The Smashing Pumpkins" weight="26" />
+      <edge id="1769" source="Pink Floyd" target="Queen" weight="32" />
+      <edge id="1770" source="Pink Floyd" target="The Rolling Stones" weight="24" />
+      <edge id="1771" source="Pink Floyd" target="Nirvana" weight="26" />
+      <edge id="1772" source="Pink Floyd" target="The White Stripes" weight="21" />
+      <edge id="1773" source="Pink Floyd" target="Metallica" weight="23" />
+      <edge id="1774" source="Pink Floyd" target="Iron Maiden" weight="23" />
+      <edge id="1775" source="Pink Floyd" target="Oasis" weight="22" />
+      <edge id="1776" source="t.A.T.u." target="Ashlee Simpson" weight="42" />
+      <edge id="1777" source="t.A.T.u." target="Katy Perry" weight="22" />
+      <edge id="1778" source="t.A.T.u." target="Lindsay Lohan" weight="26" />
+      <edge id="1779" source="t.A.T.u." target="Paramore" weight="21" />
+      <edge id="1780" source="Ashlee Simpson" target="Ke$ha" weight="24" />
+      <edge id="1781" source="Ashlee Simpson" target="Katy Perry" weight="41" />
+      <edge id="1782" source="Ashlee Simpson" target="Pixie Lott" weight="21" />
+      <edge id="1783" source="Ashlee Simpson" target="Hilary Duff" weight="33" />
+      <edge id="1784" source="Ashlee Simpson" target="Miley Cyrus" weight="35" />
+      <edge id="1785" source="Ashlee Simpson" target="Demi Lovato" weight="31" />
+      <edge id="1786" source="Ashlee Simpson" target="Selena Gomez &amp; the Scene" weight="22" />
+      <edge id="1787" source="Ashlee Simpson" target="Jennifer Lopez" weight="22" />
+      <edge id="1788" source="Ashlee Simpson" target="The Pussycat Dolls" weight="21" />
+      <edge id="1789" source="Ashlee Simpson" target="Ashley Tisdale" weight="28" />
+      <edge id="1790" source="Ashlee Simpson" target="Lindsay Lohan" weight="36" />
+      <edge id="1791" source="Ashlee Simpson" target="P!nk" weight="27" />
+      <edge id="1792" source="Ashlee Simpson" target="Panic! At the Disco" weight="22" />
+      <edge id="1793" source="Ashlee Simpson" target="Mariah Carey" weight="22" />
+      <edge id="1794" source="Ashlee Simpson" target="Paramore" weight="37" />
+      <edge id="1795" source="Ashlee Simpson" target="Taylor Swift" weight="30" />
+      <edge id="1796" source="Ashlee Simpson" target="blink-182" weight="21" />
+      <edge id="1797" source="Katy Perry" target="3OH!3" weight="32" />
+      <edge id="1798" source="Katy Perry" target="Ke$ha" weight="38" />
+      <edge id="1799" source="Katy Perry" target="David Guetta" weight="21" />
+      <edge id="1800" source="Katy Perry" target="The Veronicas" weight="23" />
+      <edge id="1801" source="Katy Perry" target="Kanye West" weight="24" />
+      <edge id="1802" source="Katy Perry" target="Pixie Lott" weight="29" />
+      <edge id="1803" source="Katy Perry" target="Cobra Starship" weight="24" />
+      <edge id="1804" source="Katy Perry" target="Hilary Duff" weight="45" />
+      <edge id="1805" source="Katy Perry" target="Miley Cyrus" weight="56" />
+      <edge id="1806" source="Katy Perry" target="Enrique Iglesias" weight="26" />
+      <edge id="1807" source="Katy Perry" target="Demi Lovato" weight="42" />
+      <edge id="1808" source="Katy Perry" target="Selena Gomez &amp; the Scene" weight="31" />
+      <edge id="1809" source="Katy Perry" target="Glee Cast" weight="32" />
+      <edge id="1810" source="Katy Perry" target="Justin Timberlake" weight="23" />
+      <edge id="1811" source="Katy Perry" target="Jennifer Lopez" weight="29" />
+      <edge id="1812" source="Katy Perry" target="The Pussycat Dolls" weight="28" />
+      <edge id="1813" source="Katy Perry" target="Ashley Tisdale" weight="37" />
+      <edge id="1814" source="Katy Perry" target="Lindsay Lohan" weight="32" />
+      <edge id="1815" source="Katy Perry" target="P!nk" weight="36" />
+      <edge id="1816" source="Katy Perry" target="Panic! At the Disco" weight="25" />
+      <edge id="1817" source="Katy Perry" target="Mariah Carey" weight="44" />
+      <edge id="1818" source="Katy Perry" target="Paramore" weight="42" />
+      <edge id="1819" source="Katy Perry" target="Taylor Swift" weight="52" />
+      <edge id="1820" source="Katy Perry" target="Eminem" weight="31" />
+      <edge id="1821" source="Katy Perry" target="Leona Lewis" weight="26" />
+      <edge id="1822" source="Katy Perry" target="The Pretty Reckless" weight="25" />
+      <edge id="1823" source="Hilary Duff" target="3OH!3" weight="26" />
+      <edge id="1824" source="Hilary Duff" target="Ke$ha" weight="27" />
+      <edge id="1825" source="Hilary Duff" target="The Veronicas" weight="21" />
+      <edge id="1826" source="Hilary Duff" target="Pixie Lott" weight="21" />
+      <edge id="1827" source="Hilary Duff" target="Miley Cyrus" weight="38" />
+      <edge id="1828" source="Hilary Duff" target="Demi Lovato" weight="32" />
+      <edge id="1829" source="Hilary Duff" target="Selena Gomez &amp; the Scene" weight="28" />
+      <edge id="1830" source="Hilary Duff" target="Glee Cast" weight="25" />
+      <edge id="1831" source="Hilary Duff" target="The Pussycat Dolls" weight="27" />
+      <edge id="1832" source="Hilary Duff" target="Ashley Tisdale" weight="36" />
+      <edge id="1833" source="Hilary Duff" target="Lindsay Lohan" weight="33" />
+      <edge id="1834" source="Hilary Duff" target="P!nk" weight="27" />
+      <edge id="1835" source="Hilary Duff" target="Mariah Carey" weight="28" />
+      <edge id="1836" source="Hilary Duff" target="Paramore" weight="32" />
+      <edge id="1837" source="Hilary Duff" target="Taylor Swift" weight="35" />
+      <edge id="1838" source="Hilary Duff" target="Eminem" weight="23" />
+      <edge id="1839" source="Miley Cyrus" target="3OH!3" weight="30" />
+      <edge id="1840" source="Miley Cyrus" target="Ke$ha" weight="38" />
+      <edge id="1841" source="Miley Cyrus" target="The Veronicas" weight="21" />
+      <edge id="1842" source="Miley Cyrus" target="Pixie Lott" weight="21" />
+      <edge id="1843" source="Miley Cyrus" target="Demi Lovato" weight="38" />
+      <edge id="1844" source="Miley Cyrus" target="Selena Gomez &amp; the Scene" weight="31" />
+      <edge id="1845" source="Miley Cyrus" target="Glee Cast" weight="21" />
+      <edge id="1846" source="Miley Cyrus" target="Ashley Tisdale" weight="40" />
+      <edge id="1847" source="Miley Cyrus" target="Lindsay Lohan" weight="32" />
+      <edge id="1848" source="Miley Cyrus" target="P!nk" weight="24" />
+      <edge id="1849" source="Miley Cyrus" target="Mariah Carey" weight="27" />
+      <edge id="1850" source="Miley Cyrus" target="Paramore" weight="32" />
+      <edge id="1851" source="Miley Cyrus" target="Taylor Swift" weight="43" />
+      <edge id="1852" source="Miley Cyrus" target="Eminem" weight="25" />
+      <edge id="1853" source="3OH!3" target="Ke$ha" weight="29" />
+      <edge id="1854" source="3OH!3" target="David Guetta" weight="21" />
+      <edge id="1855" source="3OH!3" target="Demi Lovato" weight="26" />
+      <edge id="1856" source="3OH!3" target="Ashley Tisdale" weight="21" />
+      <edge id="1857" source="3OH!3" target="P!nk" weight="23" />
+      <edge id="1858" source="3OH!3" target="Paramore" weight="25" />
+      <edge id="1859" source="3OH!3" target="Eminem" weight="21" />
+      <edge id="1860" source="Demi Lovato" target="Ke$ha" weight="28" />
+      <edge id="1861" source="Demi Lovato" target="Selena Gomez &amp; the Scene" weight="29" />
+      <edge id="1862" source="Demi Lovato" target="Ashley Tisdale" weight="31" />
+      <edge id="1863" source="Demi Lovato" target="Lindsay Lohan" weight="33" />
+      <edge id="1864" source="Demi Lovato" target="P!nk" weight="24" />
+      <edge id="1865" source="Demi Lovato" target="Panic! At the Disco" weight="26" />
+      <edge id="1866" source="Demi Lovato" target="Paramore" weight="37" />
+      <edge id="1867" source="Demi Lovato" target="Taylor Swift" weight="33" />
+      <edge id="1868" source="Demi Lovato" target="The Pretty Reckless" weight="23" />
+      <edge id="1869" source="Ke$ha" target="Pixie Lott" weight="24" />
+      <edge id="1870" source="Ke$ha" target="Glee Cast" weight="21" />
+      <edge id="1871" source="Ke$ha" target="Ashley Tisdale" weight="25" />
+      <edge id="1872" source="Ke$ha" target="Lindsay Lohan" weight="23" />
+      <edge id="1873" source="Ke$ha" target="Mariah Carey" weight="23" />
+      <edge id="1874" source="Ke$ha" target="Paramore" weight="23" />
+      <edge id="1875" source="Enrique Iglesias" target="Jennifer Lopez" weight="22" />
+      <edge id="1876" source="Enrique Iglesias" target="Mariah Carey" weight="21" />
+      <edge id="1877" source="Glee Cast" target="Mariah Carey" weight="22" />
+      <edge id="1878" source="Glee Cast" target="Taylor Swift" weight="21" />
+      <edge id="1879" source="Justin Timberlake" target="Kanye West" weight="21" />
+      <edge id="1880" source="Justin Timberlake" target="P!nk" weight="27" />
+      <edge id="1881" source="Justin Timberlake" target="Mariah Carey" weight="27" />
+      <edge id="1882" source="Justin Timberlake" target="Eminem" weight="22" />
+      <edge id="1883" source="Jennifer Lopez" target="Nicole Scherzinger" weight="21" />
+      <edge id="1884" source="Jennifer Lopez" target="P!nk" weight="23" />
+      <edge id="1885" source="Jennifer Lopez" target="Mariah Carey" weight="31" />
+      <edge id="1886" source="Jennifer Lopez" target="Taylor Swift" weight="21" />
+      <edge id="1887" source="The Pussycat Dolls" target="P!nk" weight="21" />
+      <edge id="1888" source="The Pussycat Dolls" target="Mariah Carey" weight="25" />
+      <edge id="1889" source="The Pussycat Dolls" target="Paramore" weight="21" />
+      <edge id="1890" source="Kanye West" target="Eminem" weight="34" />
+      <edge id="1891" source="Kanye West" target="Mariah Carey" weight="24" />
+      <edge id="1892" source="Pixie Lott" target="Taylor Swift" weight="23" />
+      <edge id="1893" source="Selena Gomez &amp; the Scene" target="Ashley Tisdale" weight="28" />
+      <edge id="1894" source="Selena Gomez &amp; the Scene" target="Lindsay Lohan" weight="21" />
+      <edge id="1895" source="Selena Gomez &amp; the Scene" target="P!nk" weight="21" />
+      <edge id="1896" source="Selena Gomez &amp; the Scene" target="Taylor Swift" weight="25" />
+      <edge id="1897" source="The Veronicas" target="Ashley Tisdale" weight="22" />
+      <edge id="1898" source="Cobra Starship" target="Paramore" weight="21" />
+      <edge id="1899" source="The Smashing Pumpkins" target="Nirvana" weight="30" />
+      <edge id="1900" source="The Smashing Pumpkins" target="The White Stripes" weight="25" />
+      <edge id="1901" source="The Smashing Pumpkins" target="Metallica" weight="21" />
+      <edge id="1902" source="The Smashing Pumpkins" target="Oasis" weight="23" />
+      <edge id="1903" source="Guns N' Roses" target="Queen" weight="23" />
+      <edge id="1904" source="Guns N' Roses" target="Nirvana" weight="22" />
+      <edge id="1905" source="Guns N' Roses" target="Metallica" weight="25" />
+      <edge id="1906" source="Mariah Carey" target="Ashley Tisdale" weight="23" />
+      <edge id="1907" source="Mariah Carey" target="Lindsay Lohan" weight="23" />
+      <edge id="1908" source="Mariah Carey" target="Nicole Scherzinger" weight="24" />
+      <edge id="1909" source="Mariah Carey" target="P!nk" weight="31" />
+      <edge id="1910" source="Mariah Carey" target="Paramore" weight="26" />
+      <edge id="1911" source="Mariah Carey" target="Taylor Swift" weight="28" />
+      <edge id="1912" source="Mariah Carey" target="Eminem" weight="28" />
+      <edge id="1913" source="Mariah Carey" target="Leona Lewis" weight="27" />
+      <edge id="1914" source="Paramore" target="Ashley Tisdale" weight="28" />
+      <edge id="1915" source="Paramore" target="Lindsay Lohan" weight="27" />
+      <edge id="1916" source="Paramore" target="P!nk" weight="29" />
+      <edge id="1917" source="Paramore" target="Panic! At the Disco" weight="31" />
+      <edge id="1918" source="Paramore" target="Taylor Swift" weight="36" />
+      <edge id="1919" source="Paramore" target="Queen" weight="21" />
+      <edge id="1920" source="Paramore" target="Eminem" weight="23" />
+      <edge id="1921" source="Paramore" target="My Chemical Romance" weight="26" />
+      <edge id="1922" source="Paramore" target="Oasis" weight="27" />
+      <edge id="1923" source="Paramore" target="blink-182" weight="28" />
+      <edge id="1924" source="Paramore" target="Nirvana" weight="25" />
+      <edge id="1925" source="Paramore" target="Fall Out Boy" weight="27" />
+      <edge id="1926" source="Paramore" target="The Pretty Reckless" weight="33" />
+      <edge id="1927" source="Paramore" target="The White Stripes" weight="25" />
+      <edge id="1928" source="Queen" target="Eminem" weight="21" />
+      <edge id="1929" source="Queen" target="Oasis" weight="23" />
+      <edge id="1930" source="Queen" target="The Rolling Stones" weight="28" />
+      <edge id="1931" source="Queen" target="Nirvana" weight="23" />
+      <edge id="1932" source="Queen" target="Metallica" weight="21" />
+      <edge id="1933" source="Queen" target="Iron Maiden" weight="22" />
+      <edge id="1934" source="Oasis" target="Panic! At the Disco" weight="21" />
+      <edge id="1935" source="Oasis" target="Nirvana" weight="26" />
+      <edge id="1936" source="Oasis" target="The White Stripes" weight="22" />
+      <edge id="1937" source="Nirvana" target="Eminem" weight="21" />
+      <edge id="1938" source="Nirvana" target="Pearl Jam" weight="23" />
+      <edge id="1939" source="Nirvana" target="The White Stripes" weight="29" />
+      <edge id="1940" source="Nirvana" target="Metallica" weight="22" />
+      <edge id="1941" source="P!nk" target="Ashley Tisdale" weight="22" />
+      <edge id="1942" source="P!nk" target="Lindsay Lohan" weight="23" />
+      <edge id="1943" source="P!nk" target="Taylor Swift" weight="30" />
+      <edge id="1944" source="P!nk" target="Eminem" weight="25" />
+      <edge id="1945" source="Taylor Swift" target="Ashley Tisdale" weight="29" />
+      <edge id="1946" source="Taylor Swift" target="Lindsay Lohan" weight="31" />
+      <edge id="1947" source="Taylor Swift" target="Leona Lewis" weight="23" />
+      <edge id="1948" source="Lindsay Lohan" target="Ashley Tisdale" weight="21" />
+      <edge id="1949" source="The Rolling Stones" target="The Doors" weight="21" />
+      <edge id="1950" source="Panic! At the Disco" target="My Chemical Romance" weight="22" />
+      <edge id="1951" source="Panic! At the Disco" target="blink-182" weight="21" />
+      <edge id="1952" source="Panic! At the Disco" target="The Pretty Reckless" weight="21" />
+      <edge id="1953" source="Nightwish" target="Metallica" weight="22" />
+      <edge id="1954" source="Interpol" target="The White Stripes" weight="23" />
+      <edge id="1955" source="Metallica" target="Iron Maiden" weight="37" />
+      <edge id="1956" source="Metallica" target="Megadeth" weight="44" />
+      <edge id="1957" source="Metallica" target="Marilyn Manson" weight="23" />
+      <edge id="1958" source="Iron Maiden" target="Megadeth" weight="29" />
+      <edge id="1959" source="Marilyn Manson" target="Slipknot" weight="21" />
+    </edges>
+  </graph>
+</gexf>
