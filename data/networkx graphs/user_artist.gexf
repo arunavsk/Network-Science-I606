@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-04-27">
+    <creator>NetworkX 2.4</creator>
+  </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
     <attributes class="node" mode="static">
       <attribute id="0" title="bipartite" type="long" />
     </attributes>
-    <meta>
-      <creator>NetworkX 2.3</creator>
-      <lastmodified>14/04/2020</lastmodified>
-    </meta>
     <nodes>
       <node id="2" label="2">
         <attvalues>
