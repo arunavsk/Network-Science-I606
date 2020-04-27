@@ -3,7 +3,7 @@
 
 <img src="./data/images/user_artist.png" alt="drawing" width="500"/>
 
-![alt text](../data/images/friendship.png "Title")
+![alt text](./data/images/friendship.png "Title")
 ## Introduction
 In this work, we plan to implement metapath2vec, a meta-path based representation learning technique that uses a modified skip-gram model to learn latent d-dimensional representation of nodes in a user-music heterogeneous interactions network. We will show that metapath2vec embedding can be used for heterogeneous network mining tasks like node classification, similarity search and it outperforms the traditional state of the art representation learning technique like Node2vec which is designed specifically for homogeneous networks.
 
