@@ -17,9 +17,10 @@ Open Terminal (Linux/Mac) or WSL (Windows). Make sure git and anaconda is instal
 6. `python -m ipykernel install --user --name env`
 7. `jupyter-notebook`
 8. Change kernel to env
+
 ## Future Work
 1. Snake Make
-2. 
+2. More meta paths
 
 
 ## FAQ and Known Issues
