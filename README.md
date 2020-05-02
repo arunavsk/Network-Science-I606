@@ -1,4 +1,4 @@
-# Embedding for Heterogenous Networks
+# Representation Learning for Music Recommendation
 <img src="./data/images/artist_artist.png" alt="drawing" width="800"/>
 
 <img src="./data/images/user_artist.png" alt="drawing" width="500"/>
